@@ -1,0 +1,6 @@
+@MonedaApi_HostAddress = http://localhost:5288
+
+GET {{MonedaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

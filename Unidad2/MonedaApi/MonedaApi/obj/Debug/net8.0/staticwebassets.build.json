@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wSsXFFlFHa/1UZVhUuTbb7zwx7+la5GbR1G1d6LfkgY=",
+  "Source": "MonedaApi",
+  "BasePath": "_content/MonedaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
