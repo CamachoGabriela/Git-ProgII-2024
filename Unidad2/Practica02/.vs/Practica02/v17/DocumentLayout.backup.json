@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\data\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\practica02back\\data\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\data\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{2B81B61D-57C5-4A11-A752-5CA5E9170EF2}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\practica02back\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\practica02back\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Practica02Back\\Models\\Articulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T11:26:58.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T11:26:58.591Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Practica02Back\\Data\\IAplicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T01:23:32.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T01:23:32.256Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "Practica02Back\\Services\\ArticuloService.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Services\\ArticuloService.cs",
               "RelativeToolTip": "Practica02Back\\Services\\ArticuloService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T00:35:46.689Z",
               "EditorCaption": ""
@@ -87,7 +85,7 @@
               "RelativeDocumentMoniker": "Practica02Back\\Data\\Aplicacion.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Data\\Aplicacion.cs*",
               "RelativeToolTip": "Practica02Back\\Data\\Aplicacion.cs*",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T23:49:29.642Z",
               "EditorCaption": ""
@@ -100,7 +98,7 @@
               "RelativeDocumentMoniker": "Practica02\\Controllers\\ArticulosController.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02\\Controllers\\ArticulosController.cs",
               "RelativeToolTip": "Practica02\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAQwCwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwD4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T23:16:40.965Z",
               "EditorCaption": ""
