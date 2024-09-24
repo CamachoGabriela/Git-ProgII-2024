@@ -1,5 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using Practica02Back.Data;
+using System.Collections.Generic;
 using System.Data;
+using System.Data.Common;
 using System.Data.SqlClient;
 using System.Data.SqlTypes;
 using System.Runtime.Remoting.Channels;
@@ -26,24 +28,55 @@ namespace Practica02.Data
             return cnn;
         }
 
-        public DataTable Consultar(string nombreSp, List<SqlParameter> parameters= null)
+        public DataTable ExecuteSPQuery(string sp, List<ParameterSql> parametros)
         {
-            cnn.Open();
-            SqlCommand cmd = new SqlCommand();
-            cmd.Connection = cnn;
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.CommandText = nombreSp;
-
-            if(parameters != null)
+            DataTable t = new DataTable();
+            try
             {
-                foreach(var param in parameters)
-                    cmd.Parameters.AddWithValue(param.ParameterName, param.Value);
+                cnn.Open();
+                var cmd = new SqlCommand(sp, cnn);
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                if (parametros != null)
+                {
+                    foreach (var param in parametros)
+                        cmd.Parameters.AddWithValue(param.Name, param.Value);
+                }
+
+                t.Load(cmd.ExecuteReader());
+                cnn.Close();
+            }
+            catch (SqlException)
+            {
+                t = null;
             }
 
-            DataTable dt = new DataTable();
-            dt.Load(cmd.ExecuteReader());
-            cnn.Close();
-            return dt;
+            return t;
+        }
+
+
+        public int ExecuteSPDML(string sp, List<ParameterSql> parametros)
+        {
+            int rows;
+            try
+            {
+                cnn.Open();
+                var cmd = new SqlCommand(sp, cnn);
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                if (parametros != null)
+                {
+                    foreach (var param in parametros)
+                        cmd.Parameters.AddWithValue(param.Name, param.Value);
+                }
+
+                rows = cmd.ExecuteNonQuery();
+                cnn.Close();
+            }
+            catch (SqlException)
+            {
+                rows = 0;
+            }
+
+            return rows;
         }
     }
 }

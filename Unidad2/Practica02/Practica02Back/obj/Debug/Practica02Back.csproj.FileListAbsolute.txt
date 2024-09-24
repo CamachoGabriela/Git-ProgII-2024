@@ -11,6 +11,7 @@ C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Http.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Metadata.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
@@ -45,6 +46,7 @@ C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Buffers.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.ComponentModel.Annotations.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.IO.Pipelines.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Memory.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
@@ -62,6 +64,7 @@ C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Metadata.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
@@ -97,6 +100,7 @@ C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Buffers.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.IO.Pipelines.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Memory.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad2\Practica02\Practica02Back\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\practica02back\\data\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\data\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\data\\aplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B81B61D-57C5-4A11-A752-5CA5E9170EF2}|Practica02\\Practica02.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81B61D-57C5-4A11-A752-5CA5E9170EF2}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B81B61D-57C5-4A11-A752-5CA5E9170EF2}|Practica02\\Practica02.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B81B61D-57C5-4A11-A752-5CA5E9170EF2}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\practica02back\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\practica02back\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\practica02\\practica02back\\services\\facturaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F076462-2C44-42B6-AB89-4EEE5274A067}|Practica02Back\\Practica02Back.csproj|solutionrelative:practica02back\\services\\facturaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,40 +41,33 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Models\\Articulo.cs",
-              "RelativeDocumentMoniker": "Practica02Back\\Models\\Articulo.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Models\\Articulo.cs",
-              "RelativeToolTip": "Practica02Back\\Models\\Articulo.cs",
+              "DocumentIndex": 2,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Models\\Detalle.cs",
+              "RelativeDocumentMoniker": "Practica02Back\\Models\\Detalle.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Models\\Detalle.cs",
+              "RelativeToolTip": "Practica02Back\\Models\\Detalle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T11:26:58.591Z"
+              "WhenOpened": "2024-09-24T11:22:24.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Data\\IAplicacion.cs",
-              "RelativeDocumentMoniker": "Practica02Back\\Data\\IAplicacion.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Data\\IAplicacion.cs",
-              "RelativeToolTip": "Practica02Back\\Data\\IAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FacturaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Services\\FacturaServicio.cs",
+              "RelativeDocumentMoniker": "Practica02Back\\Services\\FacturaServicio.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Services\\FacturaServicio.cs",
+              "RelativeToolTip": "Practica02Back\\Services\\FacturaServicio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA9wBsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T01:23:32.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArticuloService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Services\\ArticuloService.cs",
-              "RelativeDocumentMoniker": "Practica02Back\\Services\\ArticuloService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Services\\ArticuloService.cs",
-              "RelativeToolTip": "Practica02Back\\Services\\ArticuloService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T00:35:46.689Z",
+              "WhenOpened": "2024-09-23T23:17:08.37Z",
               "EditorCaption": ""
             },
             {
@@ -85,22 +78,35 @@
               "RelativeDocumentMoniker": "Practica02Back\\Data\\Aplicacion.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Data\\Aplicacion.cs*",
               "RelativeToolTip": "Practica02Back\\Data\\Aplicacion.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAkwEEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAABkBAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T23:49:29.642Z",
+              "WhenOpened": "2024-09-23T23:13:20.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArticulosController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02\\Controllers\\ArticulosController.cs",
-              "RelativeDocumentMoniker": "Practica02\\Controllers\\ArticulosController.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02\\Controllers\\ArticulosController.cs",
-              "RelativeToolTip": "Practica02\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAYwD4AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Practica02Back\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02Back\\Models\\Factura.cs",
+              "RelativeToolTip": "Practica02Back\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T23:16:40.965Z",
+              "WhenOpened": "2024-09-23T23:08:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Practica02\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\Practica02\\Practica02\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Practica02\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:46:59.675Z",
               "EditorCaption": ""
             }
           ]
