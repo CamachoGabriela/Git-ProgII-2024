@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1\\repositorio-1\\bankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\data\\implementations\\repositoryaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\data\\implementations\\repositoryaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\data\\implementations\\repositoryclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\data\\implementations\\repositoryclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\data\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\data\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\data\\interfaces\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\data\\interfaces\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\data\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\data\\interfaces\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\bankapp\\domain\\typeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F993225D-2E3B-4B74-8FBB-6F79354BBDE7}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\domain\\typeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryAccounts.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Implementations\\RepositoryAccounts.cs",
+              "RelativeDocumentMoniker": "BankApp\\Data\\Implementations\\RepositoryAccounts.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Implementations\\RepositoryAccounts.cs",
+              "RelativeToolTip": "BankApp\\Data\\Implementations\\RepositoryAccounts.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwD0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Interfaces\\IAccount.cs",
+              "RelativeDocumentMoniker": "BankApp\\Data\\Interfaces\\IAccount.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Interfaces\\IAccount.cs",
+              "RelativeToolTip": "BankApp\\Data\\Interfaces\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Parameter.cs",
+              "RelativeDocumentMoniker": "BankApp\\Data\\Parameter.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Parameter.cs",
+              "RelativeToolTip": "BankApp\\Data\\Parameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TypeAccount.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Domain\\TypeAccount.cs",
+              "RelativeDocumentMoniker": "BankApp\\Domain\\TypeAccount.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Domain\\TypeAccount.cs",
+              "RelativeToolTip": "BankApp\\Domain\\TypeAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Domain\\Account.cs",
+              "RelativeDocumentMoniker": "BankApp\\Domain\\Account.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Domain\\Account.cs",
+              "RelativeToolTip": "BankApp\\Domain\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "BankApp\\Domain\\Client.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Domain\\Client.cs",
+              "RelativeToolTip": "BankApp\\Domain\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryClient.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Implementations\\RepositoryClient.cs",
+              "RelativeDocumentMoniker": "BankApp\\Data\\Implementations\\RepositoryClient.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Implementations\\RepositoryClient.cs",
+              "RelativeToolTip": "BankApp\\Data\\Implementations\\RepositoryClient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Interfaces\\IClient.cs",
+              "RelativeDocumentMoniker": "BankApp\\Data\\Interfaces\\IClient.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\Interfaces\\IClient.cs",
+              "RelativeToolTip": "BankApp\\Data\\Interfaces\\IClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "BankApp\\Data\\DataHelper.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Data\\DataHelper.cs",
+              "RelativeToolTip": "BankApp\\Data\\DataHelper.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwJgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankApp\\Program.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Program.cs",
+              "RelativeToolTip": "BankApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:01.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "BankApp\\Services\\Service.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Repositorio-1\\BankApp\\Services\\Service.cs",
+              "RelativeToolTip": "BankApp\\Services\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:41:00.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

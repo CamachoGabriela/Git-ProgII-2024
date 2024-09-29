@@ -1,0 +1,71 @@
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.AssemblyInfoInputs.cache
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.AssemblyInfo.cs
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.csproj.CoreCompileInputs.cache
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.sourcelink.json
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.exe
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.deps.json
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.runtimeconfig.json
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.dll
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.pdb
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.dll
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\refint\BancoApp.dll
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.pdb
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.genruntimeconfig.cache
+C:\Users\alumno.GI\Desktop\Repositorio1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\ref\BancoApp.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.exe
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.deps.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.runtimeconfig.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\BancoApp.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Azure.Core.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\System.ClientModel.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.csproj.AssemblyReference.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.AssemblyInfoInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.AssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.csproj.CoreCompileInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.csproj.Up2Date
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\refint\BancoApp.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\BancoApp.genruntimeconfig.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\BancoApp\BancoApp\obj\Debug\net8.0\ref\BancoApp.dll

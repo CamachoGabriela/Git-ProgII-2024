@@ -1,0 +1,6 @@
+@CashApplication_HostAddress = http://localhost:5059
+
+GET {{CashApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

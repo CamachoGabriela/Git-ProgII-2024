@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\gabiantico\\Repositorio-1\\Problema1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDCC5B7-21DD-412C-9CAB-3CD69F1170FC}|Problema1.1\\Problema1.1.csproj|c:\\users\\alumno\\desktop\\gabiantico\\repositorio-1\\problema1.1\\problema1.1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDCC5B7-21DD-412C-9CAB-3CD69F1170FC}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDCC5B7-21DD-412C-9CAB-3CD69F1170FC}|Problema1.1\\Problema1.1.csproj|c:\\users\\alumno\\desktop\\gabiantico\\repositorio-1\\problema1.1\\problema1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDCC5B7-21DD-412C-9CAB-3CD69F1170FC}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDCC5B7-21DD-412C-9CAB-3CD69F1170FC}|Problema1.1\\Problema1.1.csproj|c:\\users\\alumno\\desktop\\gabiantico\\repositorio-1\\problema1.1\\problema1.1\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDCC5B7-21DD-412C-9CAB-3CD69F1170FC}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\gabiantico\\Repositorio-1\\Problema1.1\\Problema1.1\\Pila.cs",
+              "RelativeDocumentMoniker": "Problema1.1\\Pila.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\gabiantico\\Repositorio-1\\Problema1.1\\Problema1.1\\Pila.cs",
+              "RelativeToolTip": "Problema1.1\\Pila.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:04:50.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IColleccion.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\gabiantico\\Repositorio-1\\Problema1.1\\Problema1.1\\IColleccion.cs",
+              "RelativeDocumentMoniker": "Problema1.1\\IColleccion.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\gabiantico\\Repositorio-1\\Problema1.1\\Problema1.1\\IColleccion.cs",
+              "RelativeToolTip": "Problema1.1\\IColleccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:02:42.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\gabiantico\\Repositorio-1\\Problema1.1\\Problema1.1\\Program.cs",
+              "RelativeDocumentMoniker": "Problema1.1\\Program.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\gabiantico\\Repositorio-1\\Problema1.1\\Problema1.1\\Program.cs",
+              "RelativeToolTip": "Problema1.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:01:30.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
