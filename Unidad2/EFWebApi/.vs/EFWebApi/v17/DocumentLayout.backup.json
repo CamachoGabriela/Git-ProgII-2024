@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\models\\db_libroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,13 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LibrosController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Controllers\\LibrosController.cs",
               "RelativeDocumentMoniker": "EFWebApi\\Controllers\\LibrosController.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Controllers\\LibrosController.cs",
               "RelativeToolTip": "EFWebApi\\Controllers\\LibrosController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAQwGMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswHAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T18:33:25.982Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LibroRepository.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Repositories\\LibroRepository.cs",
               "RelativeDocumentMoniker": "EFWebApi\\Data\\Repositories\\LibroRepository.cs",
