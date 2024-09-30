@@ -2,7 +2,7 @@
   {
     "ContainingType": "Practica04.Controllers.ServiciosController",
     "Method": "GeByFilter",
-    "RelativePath": "Service/Filter",
+    "RelativePath": "Servicio/Filter",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF9A18A-E91A-4510-BDC9-FE6593897A68}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\practica04\\negocio\\data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF9A18A-E91A-4510-BDC9-FE6593897A68}|Negocio\\Negocio.csproj|solutionrelative:negocio\\data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{524F07DF-A693-462E-B72D-35A325713A23}|Practica04\\Practica04.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\practica04\\practica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{524F07DF-A693-462E-B72D-35A325713A23}|Practica04\\Practica04.csproj|solutionrelative:practica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BF9A18A-E91A-4510-BDC9-FE6593897A68}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\practica04\\negocio\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF9A18A-E91A-4510-BDC9-FE6593897A68}|Negocio\\Negocio.csproj|solutionrelative:negocio\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF9A18A-E91A-4510-BDC9-FE6593897A68}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\practica04\\negocio\\data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF9A18A-E91A-4510-BDC9-FE6593897A68}|Negocio\\Negocio.csproj|solutionrelative:negocio\\data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BF9A18A-E91A-4510-BDC9-FE6593897A68}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\practica04\\negocio\\data\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,46 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IServicioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Negocio\\Data\\Repositories\\IServicioRepository.cs",
-              "RelativeDocumentMoniker": "Negocio\\Data\\Repositories\\IServicioRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Negocio\\Data\\Repositories\\IServicioRepository.cs",
-              "RelativeToolTip": "Negocio\\Data\\Repositories\\IServicioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:11:34.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServicioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Negocio\\Data\\Repositories\\ServicioRepository.cs",
-              "RelativeDocumentMoniker": "Negocio\\Data\\Repositories\\ServicioRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Negocio\\Data\\Repositories\\ServicioRepository.cs",
-              "RelativeToolTip": "Negocio\\Data\\Repositories\\ServicioRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAxwCkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:31:28.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ServiciosController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Practica04\\Controllers\\ServiciosController.cs",
               "RelativeDocumentMoniker": "Practica04\\Controllers\\ServiciosController.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Practica04\\Controllers\\ServiciosController.cs",
               "RelativeToolTip": "Practica04\\Controllers\\ServiciosController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T11:13:32.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IServicioService.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Negocio\\Services\\IServicioService.cs",
               "RelativeDocumentMoniker": "Negocio\\Services\\IServicioService.cs",
@@ -93,12 +59,11 @@
               "RelativeToolTip": "Negocio\\Services\\IServicioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:12:07.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:12:07.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TServicio.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Negocio\\Data\\Models\\TServicio.cs",
               "RelativeDocumentMoniker": "Negocio\\Data\\Models\\TServicio.cs",
@@ -106,8 +71,7 @@
               "RelativeToolTip": "Negocio\\Data\\Models\\TServicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:32:06.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T11:32:06.491Z"
             }
           ]
         }

@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Practica04\\Controllers\\ServiciosController.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\Practica04\\Practica04\\Controllers\\ServiciosController.cs",
               "RelativeToolTip": "Practica04\\Controllers\\ServiciosController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T11:13:32.997Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Negocio\\Services\\IServicioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:12:07.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:12:07.359Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Negocio\\Data\\Models\\TServicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:32:06.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T11:32:06.491Z"
             }
           ]
         }
