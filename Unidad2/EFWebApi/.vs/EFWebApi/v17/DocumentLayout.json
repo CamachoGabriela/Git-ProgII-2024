@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\models\\db_libroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\models\\db_libroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\models\\db_libroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\models\\db_libroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad2\\efwebapi\\efwebapi\\data\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA5F7C9-EF59-4469-93E3-2E41BFA712D9}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,27 +47,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "db_librosContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:03:18.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autore.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\Autore.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Models\\Autore.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\Autore.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Models\\Autore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:04:40.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "EFWebApi\\Data\\Models\\Libro.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\Libro.cs",
               "RelativeToolTip": "EFWebApi\\Data\\Models\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T17:30:00.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "EFWebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\appsettings.json",
-              "RelativeToolTip": "EFWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T18:47:16.777Z",
               "EditorCaption": ""
             },
             {
@@ -82,48 +91,22 @@
               "RelativeDocumentMoniker": "EFWebApi\\Controllers\\LibrosController.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Controllers\\LibrosController.cs",
               "RelativeToolTip": "EFWebApi\\Controllers\\LibrosController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswHgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T18:33:25.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "db_librosContext.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\db_librosContext.cs",
-              "RelativeDocumentMoniker": "EFWebApi\\Data\\Models\\db_librosContext.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Models\\db_librosContext.cs",
-              "RelativeToolTip": "EFWebApi\\Data\\Models\\db_librosContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T18:32:35.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LibroRepository.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Repositories\\LibroRepository.cs",
               "RelativeDocumentMoniker": "EFWebApi\\Data\\Repositories\\LibroRepository.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Data\\Repositories\\LibroRepository.cs",
               "RelativeToolTip": "EFWebApi\\Data\\Repositories\\LibroRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T18:06:09.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "EFWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad2\\EFWebApi\\EFWebApi\\Program.cs",
-              "RelativeToolTip": "EFWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:11:14.099Z",
               "EditorCaption": ""
             }
           ]
