@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecetasEF", "RecetasEF\RecetasEF.csproj", "{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackRecetas", "BackRecetas\BackRecetas.csproj", "{B5F288E1-6FBF-4790-B134-2932A1AA2342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F288E1-6FBF-4790-B134-2932A1AA2342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F288E1-6FBF-4790-B134-2932A1AA2342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F288E1-6FBF-4790-B134-2932A1AA2342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F288E1-6FBF-4790-B134-2932A1AA2342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {223A9A31-5EE9-4785-8395-D747552378F8}
+	EndGlobalSection
+EndGlobal

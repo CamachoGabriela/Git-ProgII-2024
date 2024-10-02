@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\recetasef\\backrecetas\\data\\repositories\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|solutionrelative:backrecetas\\data\\repositories\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\recetasef\\backrecetas\\data\\entities\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|solutionrelative:backrecetas\\data\\entities\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}|RecetasEF\\RecetasEF.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\recetasef\\recetasef\\controllers\\ingredientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}|RecetasEF\\RecetasEF.csproj|solutionrelative:recetasef\\controllers\\ingredientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}|RecetasEF\\RecetasEF.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\recetasef\\recetasef\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171CB0AE-B562-4A08-A4FE-AA4CDB6AF88F}|RecetasEF\\RecetasEF.csproj|solutionrelative:recetasef\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\recetasef\\backrecetas\\data\\entities\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|solutionrelative:backrecetas\\data\\entities\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\recetasef\\backrecetas\\services\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F288E1-6FBF-4790-B134-2932A1AA2342}|BackRecetas\\BackRecetas.csproj|solutionrelative:backrecetas\\services\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Data\\Entities\\Receta.cs",
+              "RelativeDocumentMoniker": "BackRecetas\\Data\\Entities\\Receta.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Data\\Entities\\Receta.cs",
+              "RelativeToolTip": "BackRecetas\\Data\\Entities\\Receta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:16:38.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecetasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Data\\Entities\\RecetasDbContext.cs",
+              "RelativeDocumentMoniker": "BackRecetas\\Data\\Entities\\RecetasDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Data\\Entities\\RecetasDbContext.cs",
+              "RelativeToolTip": "BackRecetas\\Data\\Entities\\RecetasDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:14:26.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngredienteController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\RecetasEF\\Controllers\\IngredienteController.cs",
+              "RelativeDocumentMoniker": "RecetasEF\\Controllers\\IngredienteController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\RecetasEF\\Controllers\\IngredienteController.cs",
+              "RelativeToolTip": "RecetasEF\\Controllers\\IngredienteController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowD0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:59:21.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Data\\Repositories\\RecetaRepository.cs",
+              "RelativeDocumentMoniker": "BackRecetas\\Data\\Repositories\\RecetaRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Data\\Repositories\\RecetaRepository.cs",
+              "RelativeToolTip": "BackRecetas\\Data\\Repositories\\RecetaRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:47:05.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetaController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\RecetasEF\\Controllers\\RecetaController.cs",
+              "RelativeDocumentMoniker": "RecetasEF\\Controllers\\RecetaController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\RecetasEF\\Controllers\\RecetaController.cs",
+              "RelativeToolTip": "RecetasEF\\Controllers\\RecetaController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv3EAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:44:44.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Services\\RecetaService.cs",
+              "RelativeDocumentMoniker": "BackRecetas\\Services\\RecetaService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\RecetasEF\\BackRecetas\\Services\\RecetaService.cs",
+              "RelativeToolTip": "BackRecetas\\Services\\RecetaService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:39:16.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

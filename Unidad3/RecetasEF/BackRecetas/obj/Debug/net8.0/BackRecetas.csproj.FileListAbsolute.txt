@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\bin\Debug\net8.0\BackRecetas.deps.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\bin\Debug\net8.0\BackRecetas.runtimeconfig.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\bin\Debug\net8.0\BackRecetas.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\bin\Debug\net8.0\BackRecetas.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.AssemblyInfo.cs
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.sourcelink.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\refint\BackRecetas.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\BackRecetas.genruntimeconfig.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\RecetasEF\BackRecetas\obj\Debug\net8.0\ref\BackRecetas.dll

@@ -3189,11 +3189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\PracticaParcial1.0\\PracticaParcial1.0.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\PracticaParcial1.0\\PracticaParcial1.0.csproj",
       "projectName": "PracticaParcial1.0",
-      "projectPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\PracticaParcial1.0\\PracticaParcial1.0.csproj",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\PracticaParcial1.0\\PracticaParcial1.0.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\PracticaParcial1.0\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\PracticaParcial1.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3211,8 +3211,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Negocio.csproj"
+            "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Negocio.csproj": {
+              "projectPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Negocio.csproj"
             }
           }
         }

@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "RecetasEF.Controllers.IngredienteController",
+    "Method": "Get",
+    "RelativePath": "api/Ingrediente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.IngredienteController",
+    "Method": "Post",
+    "RelativePath": "api/Ingrediente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ing",
+        "Type": "BackRecetas.Data.Entities.Ingrediente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.IngredienteController",
+    "Method": "Get",
+    "RelativePath": "api/Ingrediente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.IngredienteController",
+    "Method": "Put",
+    "RelativePath": "api/Ingrediente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ing",
+        "Type": "BackRecetas.Data.Entities.Ingrediente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.IngredienteController",
+    "Method": "Delete",
+    "RelativePath": "api/Ingrediente/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.RecetaController",
+    "Method": "Get",
+    "RelativePath": "api/Receta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.RecetaController",
+    "Method": "Post",
+    "RelativePath": "api/Receta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "receta",
+        "Type": "BackRecetas.Data.Entities.Receta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.RecetaController",
+    "Method": "GetById",
+    "RelativePath": "api/Receta/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.RecetaController",
+    "Method": "Put",
+    "RelativePath": "api/Receta/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "receta",
+        "Type": "BackRecetas.Data.Entities.Receta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecetasEF.Controllers.RecetaController",
+    "Method": "Delete",
+    "RelativePath": "api/Receta/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

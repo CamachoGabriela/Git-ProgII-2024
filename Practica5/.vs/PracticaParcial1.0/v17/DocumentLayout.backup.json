@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practicaparcial1.0\\negocio\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practicaparcial1.0\\negocio\\services\\servicioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practica5\\negocio\\services\\servicioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\services\\servicioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practicaparcial1.0\\negocio\\services\\iservicioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practica5\\negocio\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practica5\\negocio\\services\\iservicioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\services\\iservicioturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practicaparcial1.0\\negocio\\data\\repositories\\detallesturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practica5\\negocio\\data\\repositories\\detallesturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\data\\repositories\\detallesturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practicaparcial1.0\\negocio\\services\\idetallesturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practica5\\negocio\\services\\idetallesturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\services\\idetallesturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practicaparcial1.0\\negocio\\services\\detallesturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practica5\\negocio\\services\\detallesturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\services\\detallesturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practicaparcial1.0\\negocio\\data\\entities\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\practica5\\negocio\\data\\entities\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BBB6DF-7880-4419-BD9A-B0711D689F72}|Negocio\\Negocio.csproj|solutionrelative:negocio\\data\\entities\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TurnoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Data\\Repositories\\TurnoRepository.cs",
-              "RelativeDocumentMoniker": "Negocio\\Data\\Repositories\\TurnoRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Data\\Repositories\\TurnoRepository.cs*",
-              "RelativeToolTip": "Negocio\\Data\\Repositories\\TurnoRepository.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwDgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:25:16.523Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -67,39 +54,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Data\\Repositories\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Negocio\\Data\\Repositories\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Data\\Repositories\\TurnoRepository.cs",
+              "RelativeToolTip": "Negocio\\Data\\Repositories\\TurnoRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:25:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TTurno.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Data\\Entities\\TTurno.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Data\\Entities\\TTurno.cs",
               "RelativeDocumentMoniker": "Negocio\\Data\\Entities\\TTurno.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Data\\Entities\\TTurno.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Data\\Entities\\TTurno.cs",
               "RelativeToolTip": "Negocio\\Data\\Entities\\TTurno.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T02:47:23.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T02:47:23.912Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IServicioTurno.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\IServicioTurno.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\IServicioTurno.cs",
               "RelativeDocumentMoniker": "Negocio\\Services\\IServicioTurno.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\IServicioTurno.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\IServicioTurno.cs",
               "RelativeToolTip": "Negocio\\Services\\IServicioTurno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T02:42:22.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T02:42:22.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ServicioTurno.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\ServicioTurno.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\ServicioTurno.cs",
               "RelativeDocumentMoniker": "Negocio\\Services\\ServicioTurno.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\ServicioTurno.cs*",
-              "RelativeToolTip": "Negocio\\Services\\ServicioTurno.cs*",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAwFEAAABlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\ServicioTurno.cs",
+              "RelativeToolTip": "Negocio\\Services\\ServicioTurno.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwCwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T02:40:18.484Z",
               "EditorCaption": ""
@@ -108,40 +106,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DetallesTurnoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Data\\Repositories\\DetallesTurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Data\\Repositories\\DetallesTurnoRepository.cs",
               "RelativeDocumentMoniker": "Negocio\\Data\\Repositories\\DetallesTurnoRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Data\\Repositories\\DetallesTurnoRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Data\\Repositories\\DetallesTurnoRepository.cs",
               "RelativeToolTip": "Negocio\\Data\\Repositories\\DetallesTurnoRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T02:25:17.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T02:25:17.183Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IDetallesTurnoService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\IDetallesTurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\IDetallesTurnoService.cs",
               "RelativeDocumentMoniker": "Negocio\\Services\\IDetallesTurnoService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\IDetallesTurnoService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\IDetallesTurnoService.cs",
               "RelativeToolTip": "Negocio\\Services\\IDetallesTurnoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T23:06:02.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T23:06:02.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DetallesTurnoService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\DetallesTurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\DetallesTurnoService.cs",
               "RelativeDocumentMoniker": "Negocio\\Services\\DetallesTurnoService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\PracticaParcial1.0\\Negocio\\Services\\DetallesTurnoService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Services\\DetallesTurnoService.cs",
               "RelativeToolTip": "Negocio\\Services\\DetallesTurnoService.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA5wDIAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T23:05:47.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T23:05:47.25Z"
             }
           ]
         }
