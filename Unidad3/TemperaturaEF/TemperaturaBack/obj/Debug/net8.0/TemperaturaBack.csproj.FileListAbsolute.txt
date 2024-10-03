@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\bin\Debug\net8.0\TemperaturaBack.deps.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\bin\Debug\net8.0\TemperaturaBack.runtimeconfig.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\bin\Debug\net8.0\TemperaturaBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\bin\Debug\net8.0\TemperaturaBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.AssemblyInfo.cs
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.sourcelink.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\refint\TemperaturaBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\TemperaturaBack.genruntimeconfig.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\TemperaturaEF\TemperaturaBack\obj\Debug\net8.0\ref\TemperaturaBack.dll

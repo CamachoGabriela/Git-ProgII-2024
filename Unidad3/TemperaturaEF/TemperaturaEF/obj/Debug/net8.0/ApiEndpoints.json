@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "TemperaturaEF.Controllers.TemperaturaController",
+    "Method": "Get",
+    "RelativePath": "api/Temperatura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TemperaturaEF.Controllers.TemperaturaController",
+    "Method": "Post",
+    "RelativePath": "api/Temperatura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "temp",
+        "Type": "TemperaturaBack.Data.Entities.Temperatura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TemperaturaEF.Controllers.TemperaturaController",
+    "Method": "Get",
+    "RelativePath": "api/Temperatura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TemperaturaEF.Controllers.TemperaturaController",
+    "Method": "Put",
+    "RelativePath": "api/Temperatura/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "temp",
+        "Type": "TemperaturaBack.Data.Entities.Temperatura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TemperaturaEF.Controllers.TemperaturaController",
+    "Method": "Delete",
+    "RelativePath": "api/Temperatura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

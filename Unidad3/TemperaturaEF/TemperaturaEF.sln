@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturaEF", "TemperaturaEF\TemperaturaEF.csproj", "{E28AD27E-657D-4925-B1FF-673277CADAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturaBack", "TemperaturaBack\TemperaturaBack.csproj", "{8023F323-8A5B-4F52-AE42-A9D1828D70C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E28AD27E-657D-4925-B1FF-673277CADAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28AD27E-657D-4925-B1FF-673277CADAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28AD27E-657D-4925-B1FF-673277CADAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28AD27E-657D-4925-B1FF-673277CADAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8023F323-8A5B-4F52-AE42-A9D1828D70C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8023F323-8A5B-4F52-AE42-A9D1828D70C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8023F323-8A5B-4F52-AE42-A9D1828D70C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8023F323-8A5B-4F52-AE42-A9D1828D70C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C3FDD9-CC07-4C48-9983-92713216FF49}
+	EndGlobalSection
+EndGlobal
