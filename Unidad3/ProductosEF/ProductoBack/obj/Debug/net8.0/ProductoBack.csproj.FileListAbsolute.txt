@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\bin\Debug\net8.0\ProductoBack.deps.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\bin\Debug\net8.0\ProductoBack.runtimeconfig.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\bin\Debug\net8.0\ProductoBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\bin\Debug\net8.0\ProductoBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.AssemblyInfo.cs
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.sourcelink.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\refint\ProductoBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ProductoBack.genruntimeconfig.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\ProductosEF\ProductoBack\obj\Debug\net8.0\ref\ProductoBack.dll
