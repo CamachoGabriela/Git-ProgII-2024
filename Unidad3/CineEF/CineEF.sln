@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineEF", "CineEF\CineEF.csproj", "{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineBack", "CineBack\CineBack.csproj", "{CA72ED37-1FF2-45BF-8E72-D63386639284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA72ED37-1FF2-45BF-8E72-D63386639284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA72ED37-1FF2-45BF-8E72-D63386639284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA72ED37-1FF2-45BF-8E72-D63386639284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA72ED37-1FF2-45BF-8E72-D63386639284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C458CB91-4492-499A-9C3D-C721F35847EC}
+	EndGlobalSection
+EndGlobal

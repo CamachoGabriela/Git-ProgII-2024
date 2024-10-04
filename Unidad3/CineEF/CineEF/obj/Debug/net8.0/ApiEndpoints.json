@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "CineEF.Controllers.GeneroController",
+    "Method": "Get",
+    "RelativePath": "api/Genero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.GeneroController",
+    "Method": "Post",
+    "RelativePath": "api/Genero",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "CineBack.Data.Entities.Genero",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.GeneroController",
+    "Method": "Get",
+    "RelativePath": "api/Genero/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.GeneroController",
+    "Method": "Put",
+    "RelativePath": "api/Genero/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "genero",
+        "Type": "CineBack.Data.Entities.Genero",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.GeneroController",
+    "Method": "Delete",
+    "RelativePath": "api/Genero/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.PeliculaController",
+    "Method": "Get",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.PeliculaController",
+    "Method": "Post",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pelicula",
+        "Type": "CineBack.Data.Entities.Pelicula",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.PeliculaController",
+    "Method": "Get",
+    "RelativePath": "api/Pelicula/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.PeliculaController",
+    "Method": "Put",
+    "RelativePath": "api/Pelicula/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pelicula",
+        "Type": "CineBack.Data.Entities.Pelicula",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineEF.Controllers.PeliculaController",
+    "Method": "Delete",
+    "RelativePath": "api/Pelicula/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

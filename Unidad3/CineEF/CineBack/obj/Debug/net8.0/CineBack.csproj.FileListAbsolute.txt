@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\bin\Debug\net8.0\CineBack.deps.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\bin\Debug\net8.0\CineBack.runtimeconfig.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\bin\Debug\net8.0\CineBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\bin\Debug\net8.0\CineBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.AssemblyInfo.cs
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.sourcelink.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\refint\CineBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\CineBack.genruntimeconfig.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\CineEF\CineBack\obj\Debug\net8.0\ref\CineBack.dll

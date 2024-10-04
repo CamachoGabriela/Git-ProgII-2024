@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}|CineEF\\CineEF.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\cineef\\cineef\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}|CineEF\\CineEF.csproj|solutionrelative:cineef\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}|CineEF\\CineEF.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\cineef\\cineef\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F6F6DC-7226-4AFB-87BB-324A8B45555E}|CineEF\\CineEF.csproj|solutionrelative:cineef\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA72ED37-1FF2-45BF-8E72-D63386639284}|CineBack\\CineBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\cineef\\cineback\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA72ED37-1FF2-45BF-8E72-D63386639284}|CineBack\\CineBack.csproj|solutionrelative:cineback\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA72ED37-1FF2-45BF-8E72-D63386639284}|CineBack\\CineBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\cineef\\cineback\\data\\repositories\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA72ED37-1FF2-45BF-8E72-D63386639284}|CineBack\\CineBack.csproj|solutionrelative:cineback\\data\\repositories\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "CineEF\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\GeneroController.cs*",
+              "RelativeToolTip": "CineEF\\Controllers\\GeneroController.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:07:42.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineBack\\Data\\Repositories\\PeliculaRepository.cs",
+              "RelativeDocumentMoniker": "CineBack\\Data\\Repositories\\PeliculaRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineBack\\Data\\Repositories\\PeliculaRepository.cs",
+              "RelativeToolTip": "CineBack\\Data\\Repositories\\PeliculaRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:01:00.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "CineEF\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "CineEF\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:15:47.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineBack\\Services\\PeliculaService.cs",
+              "RelativeDocumentMoniker": "CineBack\\Services\\PeliculaService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineBack\\Services\\PeliculaService.cs",
+              "RelativeToolTip": "CineBack\\Services\\PeliculaService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwC4AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:12:49.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
