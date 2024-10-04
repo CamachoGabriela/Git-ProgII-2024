@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\bin\Debug\net8.0\EnvioBack.deps.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\bin\Debug\net8.0\EnvioBack.runtimeconfig.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\bin\Debug\net8.0\EnvioBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\bin\Debug\net8.0\EnvioBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.AssemblyInfo.cs
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.sourcelink.json
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\refint\EnvioBack.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.pdb
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\EnvioBack.genruntimeconfig.cache
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\Unidad3\EnviosEF\EnvioBack\obj\Debug\net8.0\ref\EnvioBack.dll
