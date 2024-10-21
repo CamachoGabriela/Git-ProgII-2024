@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+::after,
+::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    height: 100vh;
+}
+
+.container-fluid {
+    min-height: 220vh;
+    width: calc(100%-70px);
+    margin-left: 70px;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+    background-color: #fafbfe;
+}
+
+.container-fluid.expand{
+    width: calc(100%-260px);
+    margin-left: 260px;
+    min-height: 286vh;
+}
+
+.container-fluid .text-center {
+    width:40%;
+    margin: 0 auto;
+}
+.container-fluid .text-center span {
+    font-size: 15px; 
+    color: #343a40; 
+    padding: 1%; 
+    font-weight: bold;
+    display: flex;
+    flex-direction: column; 
+    text-align: start;
+}
+
+.container-fluid .text-center i.bi-person-circle {
+    font-size: 5rem;  
+    color: #343a40;
+    margin-bottom: 10px; 
+    display: block;  
+}
+
+
+#sidebar{
+    width: 70px;
+    min-width: 70px;
+    z-index: 1000;
+    transition: all .25s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    background-color: #0e2238; 
+    height: 100vh;
+}
+
+#sidebar.expand{
+    width:260px;
+    min-width: 260px;;
+}
+
+.toggle-btn{
+    background-color: transparent;
+    cursor: pointer;
+    border:0;
+    padding: 1rem 1.5rem;
+}
+
+.toggle-btn i{
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.sidebar-logo{
+    margin:auto 0;
+}
+
+.sidebar-logo a{
+    color: #fff;
+    font-size: 1.15rem;
+    font-weight: 600;
+}
+
+#sidebar:not(.expand) .sidebar-logo,
+#sidebar:not(.expand) a.sidebar-link span{
+    display: none;
+}
+
+.sidebar-nav{
+    padding:2rem 0;
+    flex: 1 1 auto;
+}
+
+a.sidebar-link{
+    padding: .625rem 1.625rem;
+    color:#fff;
+    display: block;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    border-left: 3px solid transparent;
+}
+
+.sidebar-link i{
+    font-size: 1.1rem;
+    margin-right: .75rem;
+}
+
+a.sidebar-link:hover{
+    background-color: rgba(255,255,255, .075);
+    border-left: 3px solid #3b7ddd;
+}
+
+.sidebar-item{
+    position: relative;
+}
+
+#sidebar:not(.expand) .sidebar-item .sidebar-dropdown{
+    position: absolute;
+    top:0;
+    left:70px;
+    background-color: #0e2238;
+    padding: 0;
+    min-width: 15rem;
+    display: none;
+}
+
+#sidebar:not(.expand) .sidebar-item:hover .has-dropdown+.sidebar-dropdown{
+    display: block;
+    max-height: 15em;
+    width: 100%;
+    opacity: 1;
+}
+
+#sidebar.expand .sidebar-link[data-bs-toggle="collapse"]::after{
+    border:solid;
+    border-width: 0 .075rem .075rem 0;
+    content: "";
+    display: inline-block;
+    padding: 2px;
+    position: absolute;
+    right: 1.5rem;
+    top: 1.4rem;
+    transform: rotate(-135deg);
+    transition: all .2s ease-out;
+}
+
+#sidebar.expand .sidebar-link[data-bs-toggle="collapse"].collapsed::after{
+    transform: rotate(45deg);
+    transition: all .2s ease-out;
+}
+
+footer{
+    background-color:  #0e2238;
+}
+.container{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 32px;
+}
+
+p{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: .5rem;
+    padding: 1rem 0;
+    margin: 0;
+}
+
+img{
+    height: 380px;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.carousel-caption h5 {
+    color: #fafbfe; 
+    font-size: 28px;
+}
+
+.carousel-caption p {
+    color: #fafbfe;
+    font-size: 12px;
+}
+
+#servicio{
+    display: inline-block;
+    padding: 15px 0;
+    margin-left: 3%;
+    margin-top: 2%;;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 2px solid #343a40;
+    width: 93%;
+}
+
+.container .card{
+    height: 400px;
+}
+
+.three-columns .col-md-3 {
+    flex: 0 0 calc(33.33% - 20px); /* 3 columnas en estado expandido */
+    max-width: calc(33.33% - 20px);
+}
+
+.card{
+    border: 1px solid #343a40;
+    width: 17.5rem;
+}
+
+.card img{
+    max-height: 250px;
+}
+
+.card-body{
+    background: #0e2238;
+}
+
+.card-title {
+    color: #fafbfe;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 14px;
+    color: #6c757d; 
+}
+
