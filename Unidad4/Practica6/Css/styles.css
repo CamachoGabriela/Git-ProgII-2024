@@ -252,3 +252,8 @@ img{
     color: #6c757d; 
 }
 
+@media (max-width: 768px) {
+    .container-fluid {
+        height: 355vh;
+    }
+}

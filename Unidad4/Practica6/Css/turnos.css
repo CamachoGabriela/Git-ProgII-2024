@@ -41,7 +41,7 @@ body {
 .container-fluid.expand{
     width: calc(100%-260px);
     margin-left: 260px;
-    min-height: 286vh;
+    min-height: 90vh;
 }
 
 .container-fluid .text-center {
@@ -198,6 +198,13 @@ h3{
     font-size: 35px;
 }
 
+h4{
+    color: #343a40;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+
 footer p{
     color: #fff;
     font-family: 'Poppins', sans-serif;
@@ -208,4 +215,11 @@ footer p{
 
 footer{
     background-color:  #0e2238;
+}
+
+@media (max-width: 768px) {
+
+    .container-fluid {
+        height: 20vh;
+    }
 }

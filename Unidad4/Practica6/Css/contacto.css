@@ -41,7 +41,7 @@ body {
 .container-fluid.expand{
     width: calc(100%-260px);
     margin-left: 260px;
-    min-height: 286vh;
+    min-height: 100vh;
 }
 
 .container-fluid .text-center {
@@ -243,4 +243,10 @@ footer p{
 
 footer{
     background-color:  #0e2238;
+}
+
+@media (max-width: 768px) {
+    .container-fluid {
+        height: 30vh;
+    }
 }

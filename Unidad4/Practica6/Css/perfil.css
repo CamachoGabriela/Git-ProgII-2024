@@ -244,3 +244,9 @@ footer p{
 footer{
     background-color:  #0e2238;
 }
+
+@media (max-width: 768px) {
+    .container-fluid {
+        height: 355vh;
+    }
+}

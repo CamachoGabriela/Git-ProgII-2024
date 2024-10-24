@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\envioback\\data\\repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|solutionrelative:envioback\\data\\repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8829E6BB-BEC1-4A98-9E3C-0290C10A0D36}|EnviosEF\\EnviosEF.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\enviosef\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8829E6BB-BEC1-4A98-9E3C-0290C10A0D36}|EnviosEF\\EnviosEF.csproj|solutionrelative:enviosef\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8829E6BB-BEC1-4A98-9E3C-0290C10A0D36}|EnviosEF\\EnviosEF.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\enviosef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8829E6BB-BEC1-4A98-9E3C-0290C10A0D36}|EnviosEF\\EnviosEF.csproj|solutionrelative:enviosef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8829E6BB-BEC1-4A98-9E3C-0290C10A0D36}|EnviosEF\\EnviosEF.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\enviosef\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8829E6BB-BEC1-4A98-9E3C-0290C10A0D36}|EnviosEF\\EnviosEF.csproj|solutionrelative:enviosef\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\envioback\\data\\entities\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|solutionrelative:envioback\\data\\entities\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\envioback\\services\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\envioback\\data\\repositories\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|solutionrelative:envioback\\data\\repositories\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\envioback\\data\\entities\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|solutionrelative:envioback\\data\\entities\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF909FF-06E9-48D0-A46B-630816E24CCB}|EnvioBack\\EnvioBack.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\unidad3\\enviosef\\envioback\\services\\ienvioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,25 +97,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmpresaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\EnvioBack\\Data\\Repositories\\EmpresaRepository.cs",
-              "RelativeDocumentMoniker": "EnvioBack\\Data\\Repositories\\EmpresaRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\EnvioBack\\Data\\Repositories\\EmpresaRepository.cs*",
-              "RelativeToolTip": "EnvioBack\\Data\\Repositories\\EmpresaRepository.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:33:09.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EmpresaController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\EnviosEF\\Controllers\\EmpresaController.cs",
               "RelativeDocumentMoniker": "EnviosEF\\Controllers\\EmpresaController.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\EnviosEF\\Controllers\\EmpresaController.cs",
               "RelativeToolTip": "EnviosEF\\Controllers\\EmpresaController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswCkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0sAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T18:24:44.652Z",
               "EditorCaption": ""
@@ -165,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "EnviosDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\EnvioBack\\Data\\Entities\\EnviosDbContext.cs",
               "RelativeDocumentMoniker": "EnvioBack\\Data\\Entities\\EnviosDbContext.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\EnvioBack\\Data\\Entities\\EnviosDbContext.cs",
               "RelativeToolTip": "EnvioBack\\Data\\Entities\\EnviosDbContext.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwEsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwE8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T17:51:45.876Z",
               "EditorCaption": ""
@@ -217,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "IEnvioService.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\EnviosEF\\EnvioBack\\Services\\IEnvioService.cs",
               "RelativeDocumentMoniker": "EnvioBack\\Services\\IEnvioService.cs",

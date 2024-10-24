@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mggrUAmT+6w=",
+  "dgSpecHash": "+rMQ5vChVc8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Negocio.csproj",
+  "projectFilePath": "c:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\Negocio\\Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
