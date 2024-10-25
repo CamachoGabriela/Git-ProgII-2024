@@ -222,4 +222,17 @@ footer{
     .container-fluid {
         height: 20vh;
     }
+    div .text-center{
+        display:flex;
+    }
+    .btn{
+        margin-left: 28px;
+    }
+    .seccion {
+        width: 60%;
+        margin: 3px;
+    }
+    .toggle-btn{
+        display: none;
+    }
 }
