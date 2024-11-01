@@ -38,6 +38,11 @@ namespace CineBack.Data.Repositories
             return false;
         }
 
+        public async Task<List<Pelicula>> FindByGender(int id)
+        {
+            return await _context.Peliculas.Where(x=>x.GeneroNavigation.Id==id && x.Estreno==true).ToListAsync();
+        }
+
         public async Task<List<Pelicula>> GetAll()
         {
             return await _context.Peliculas.Where(x=>x.Estreno==true).ToListAsync();

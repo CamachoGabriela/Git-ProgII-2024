@@ -37,7 +37,22 @@ namespace CineEF.Controllers
             {
                 if(id != null)
                     return Ok(await _service.GetPeliculaById(id));
-                else return BadRequest("Debe ingresar un identificar de película");
+                else return BadRequest(new { mensaje = "Debe ingresar un identificar de película" });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Ha ocurrido un error interno. Intente nuevamente más tarde. Error: {ex.Message}");
+            }
+        }
+
+        [HttpGet("Genero/{id}")]
+        public async Task<IActionResult> GetGenero(int id)
+        {
+            try
+            {
+                if (id != null)
+                    return Ok(await _service.GetPeliculasPorGenero(id));
+                else return BadRequest(new { mensaje = "Debe ingresar un identificar de película" });
             }
             catch (Exception ex)
             {
@@ -51,14 +66,18 @@ namespace CineEF.Controllers
         {
             try
             {
-                if(pelicula != null)
+                if (pelicula != null)
                 {
-                    await _service.RegistrarPelicula(pelicula);
-                    return Ok("Película creada con éxito!!");
+                    if (await _service.RegistrarPelicula(pelicula))
+                        return Ok(new { mensaje = "Película creada con éxito!!" });
+                    else
+                    {
+                        return BadRequest(new { mensaje = "No se ha podido registrar la película" });
+                    }
                 }
                 else
                 {
-                    return BadRequest("No se ha podido registrar la película");
+                    return BadRequest(new { mensaje = "No se ha podido registrar la película" });
                 }
                     
             }
@@ -76,19 +95,19 @@ namespace CineEF.Controllers
             {
                 if (pelicula != null)
                 {
-                    if(id!= null)
+                    if (id != null)
                     {
                         await _service.ModificarPelicula(id, pelicula);
-                        return Ok("Película actualizada con éxito!!");
+                        return Ok(new { mensaje = "Película actualizada con éxito!!" });
                     }
                     else
                     {
-                        return NotFound("No se ha encontrado la película solicitada");
+                        return NotFound(new { mensaje = "No se ha encontrado la película solicitada" });
                     }
                 }
                 else
                 {
-                    return BadRequest("No se ha podido actualizar la película");
+                    return BadRequest(new { mensaje = "No se ha podido actualizar la película" });
                 }
 
             }
@@ -107,11 +126,11 @@ namespace CineEF.Controllers
                 if (id != null)
                 {
                     await _service.EliminarPelicula(id);
-                    return Ok("Película eliminada con éxito!!");
+                    return Ok(new { mensaje = "Película eliminada con éxito!!" });
                 }
                 else
                 {
-                    return NotFound("No se ha encontrado la película solicitada");
+                    return NotFound(new { mensaje = "No se ha encontrado la película solicitada" });
                 }
             }
             catch (Exception ex)

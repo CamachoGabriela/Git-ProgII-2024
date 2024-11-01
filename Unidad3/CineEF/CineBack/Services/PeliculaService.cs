@@ -30,6 +30,11 @@ namespace CineBack.Services
             return await _repository.GetById(id);
         }
 
+        public async Task<List<Pelicula>> GetPeliculasPorGenero(int id)
+        {
+            return await _repository.FindByGender(id);
+        }
+
         public async Task<bool> ModificarPelicula(int id, Pelicula pelicula)
         {
             return await _repository.Update(id, pelicula);
@@ -44,7 +49,7 @@ namespace CineBack.Services
 
         public bool ValidarCampos(Pelicula pelicula)
         {
-            return pelicula.Titulo != null && pelicula.Anho != null && pelicula.Director != null && pelicula.Genero != null;
+            return pelicula.Titulo != null && pelicula.Anho != null && pelicula.Director != null && pelicula.Genero > 0;
         }
     }
 }

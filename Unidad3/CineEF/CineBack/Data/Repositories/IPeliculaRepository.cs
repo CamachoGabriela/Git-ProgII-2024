@@ -11,6 +11,7 @@ namespace CineBack.Data.Repositories
     {
         Task<List<Pelicula>> GetAll();
         Task<Pelicula?> GetById(int id);
+        Task<List<Pelicula>> FindByGender(int id);
         Task<bool> Create(Pelicula pelicula);
         Task<bool> Update(int id, Pelicula pelicula);
         Task<bool> Delete(int id);

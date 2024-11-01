@@ -10,6 +10,7 @@ namespace CineBack.Services
     public interface IPeliculaService
     {
         Task<List<Pelicula>> GetAllPeliculas();
+        Task<List<Pelicula>> GetPeliculasPorGenero(int id);
         Task<Pelicula?> GetPeliculaById(int id);
         Task<bool> RegistrarPelicula(Pelicula pelicula);
         Task<bool> ModificarPelicula(int id, Pelicula pelicula);
