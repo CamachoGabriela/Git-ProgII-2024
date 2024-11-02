@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModeloParcialWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2713693af768d1bfb0a08e18a8c9963d0b02092")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9e211a6c8a1277d1738bad0294949b36ef19a84")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModeloParcialWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModeloParcialWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

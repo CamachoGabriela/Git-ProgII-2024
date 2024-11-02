@@ -62,12 +62,11 @@
               "Title": "PeliculaController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\PeliculaController.cs",
               "RelativeDocumentMoniker": "CineEF\\Controllers\\PeliculaController.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\PeliculaController.cs*",
-              "RelativeToolTip": "CineEF\\Controllers\\PeliculaController.cs*",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "CineEF\\Controllers\\PeliculaController.cs",
               "ViewState": "AgIAAHEAAAAAAAAAAAAswIAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:08:06.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T18:08:06.237Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "CineEF\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T16:02:15.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T16:02:15.487Z"
             },
             {
               "$type": "Document",
@@ -88,9 +86,9 @@
               "Title": "GeneroController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\GeneroController.cs",
               "RelativeDocumentMoniker": "CineEF\\Controllers\\GeneroController.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\GeneroController.cs*",
-              "RelativeToolTip": "CineEF\\Controllers\\GeneroController.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCcAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Unidad3\\CineEF\\CineEF\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "CineEF\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T14:52:21.118Z",
               "EditorCaption": ""
@@ -141,8 +139,7 @@
               "RelativeToolTip": "CineBack\\Data\\Repositories\\PeliculaRepository.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwDQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T14:01:00.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T14:01:00.771Z"
             },
             {
               "$type": "Document",
