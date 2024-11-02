@@ -23,7 +23,7 @@ namespace Negocio.Data.Repositories
 
         public async Task<bool> Delete(int idT, int idS)
         {
-            var detalleEliminado = await _context.TDetallesTurnos.FindAsync(idT,idS);
+            var detalleEliminado = await _context.TDetallesTurnos.SingleOrDefaultAsync(dt => dt.IdTurno == idT && dt.IdServicio == idS);
             if (detalleEliminado != null)
             {
                 _context.TDetallesTurnos.Remove(detalleEliminado);

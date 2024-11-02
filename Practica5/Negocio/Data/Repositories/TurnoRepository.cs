@@ -39,7 +39,8 @@ namespace Negocio.Data.Repositories
 
         public async Task<List<TTurno>> GetAll()
         {
-            return await _context.TTurnos.Where(x=>x.FechaCancelacion==null).ToListAsync();
+            return await _context.TTurnos.Where(x=>x.FechaCancelacion==null)
+                                         .ToListAsync();
         }
 
         public async Task<TTurno?> GetById(int id)

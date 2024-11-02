@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Turnos </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="/Css/turnos.css"></link>
+</head>
+
+<body>
+    <header>
+       <div class="wrapper">
+        <aside id="sidebar" class="position-fixed">
+            <div class="d-flex">
+                <button class="toggle-btn" type="button">
+                    <i class="bi bi-grid"></i>
+                </button>
+                <div class="sidebar-logo">
+                    <a href="index.html">Hair Haven</a>
+                </div>
+            </div>
+            <ul class="sidebar-nav">
+                <li class="sidebar-item">
+                    <a href="perfil.html" class="sidebar-link">
+                        <i class="bi bi-person-circle"></i>
+                        <span>Usuario</span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a href="#" class="sidebar-link  collapsed has-dropdown" data-bs-toggle="collapse" 
+                    data-bs-target="#auth" aria-expanded="false" aria-controls="auth">
+                        <i class="bi bi-shield-check"></i>
+                        <span>Iniciar Sesión</span>
+                    </a>
+                    <ul id="auth" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">
+                        <li class="sidebar-item">
+                            <a href="auth.html" class="sidebar-link">Login</a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a href="registrar.html" class="sidebar-link">Registrar</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="sidebar-item">
+                    <a href="index.html#servicios" class="sidebar-link">
+                        <i class="bi bi-scissors"></i>
+                        <span>Servicios</span>
+                    </a>
+                </li> 
+                <li class="sidebar-item">
+                    <a href="misTurnos.html" class="sidebar-link">
+                        <i class="bi bi-journal-text"></i>
+                        <span>Turnos</span>
+                    </a>
+                </li> 
+                <li class="sidebar-item">
+                    <a href="contacto.html" class="sidebar-link">
+                        <i class="bi bi-envelope"></i>
+                        <span>Contacto</span>
+                    </a>
+                </li> 
+            </ul>
+                <div class="sidebar-footer">
+                    <a href="#" class="sidebar-link">
+                        <i class="bi bi-box-arrow-left"></i>
+                        <span>Logout</span>
+                    </a>
+            </div>
+        </aside>
+        <div class="container-fluid">
+            <div class="main p-2  mt-5" style="width: 900px;">
+                <div class="text-center mb-5">
+                    <button class="btn btn-primary" onclick="mostrarSeccion('dashboard')">Turnos de Clientes</button>
+                    <button class="btn btn-secondary" onclick="mostrarSeccion('tablaTurnos')">Ver Turnos</button>
+                    <button class="btn btn-success" onclick="mostrarSeccion('formularioTurno')">Nuevo Turno</button>
+                </div>
+                <section id="dashboard" class="seccion">
+                    <h4>Total de Turnos por Cliente</h4>
+                    <table class="table table-bordered table-hover mt-3">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Cliente</th>
+                                <th>Total de Turnos</th>
+                            </tr>
+                        </thead>
+                        <tbody id="clientes">
+                        </tbody>
+                    </table>
+                </section>
+
+                <section id="tablaTurnos" class="seccion" style="display: none;">
+                    <h4>Listado de Turnos</h4>
+                    <table class="table table-bordered table-hover mt-4">
+                        <thead>
+                            <tr>
+                                <th>Servicio</th>
+                                <th>Cliente</th>
+                                <th>Fecha</th>
+                                <th>Hora</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody id="turnos">
+                        </tbody>
+                    </table>
+                </section>
+
+                <section id="formularioTurno" class="seccion" style="display: none;">
+                    <h4>Agregar Nuevo Turno</h4>
+                    <form id="nuevoTurnoForm">
+                        <div class="mb-3">
+                            <label for="servicio" class="form-label">Servicio:</label>
+                            <select id="servicio" class="form-select">
+                                
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="cliente" class="form-label">Cliente:</label>
+                            <input type="text" id="cliente" class="form-select">
+                        </div>
+                        <div class="mb-3">
+                            <label for="fecha" class="form-label">Fecha:</label>
+                            <input type="date" id="fecha" class="form-control">
+                        </div>
+                        <div class="mb-3">
+                            <label for="hora" class="form-label">Hora:</label>
+                            <input type="time" id="hora" class="form-control">
+                        </div>
+                        <button type="button" class="btn btn-primary" onclick="agregarTurno()">Agregar Turno</button>
+                    </form>
+                </section>
+                </div> 
+            </div>
+        </div>
+        
+    </header>
+    <footer class="fixed-bottom text-center">
+        <div class="container">
+            <p>©2024, Hair Haven</p>
+        </div>
+    </footer>
+    <script src="/Js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

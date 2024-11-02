@@ -93,7 +93,7 @@ namespace Negocio.Services
             var fechaMaxima = DateTime.Today.AddDays(45);
             if (fec > fechaMaxima) return false;
 
-
+            Console.WriteLine($"Validating date: {fec} and time: {hs}");
             //solo es posible registrar el turno si para la fecha y hora seleccionadas no existe un registro previamente cargado.
             var lst = await _turnoRepository.GetAll();
             var existe = lst.FirstOrDefault(x =>
@@ -101,8 +101,12 @@ namespace Negocio.Services
                 var fechaTurno = Convert.ToDateTime(x.Fecha);
                 var horaTurno = TimeSpan.Parse(x.Hora);
 
+
+                Console.WriteLine($"Comparing with stored date: {fechaTurno.Date} and time: {horaTurno}");
+
                 return fechaTurno.Date == fec.Date && horaTurno == hs;
             });
+            Console.WriteLine(existe == null ? "No existing record found, validation passed." : "Record found, validation failed.");
             return existe == null;
         }
         // Validar que se ingrese un servicio tmb

@@ -37,7 +37,7 @@ namespace CineEF.Controllers
             {
                 if (id != null)
                     return Ok(await _service.GetGeneroById(id));
-                else return BadRequest(new { mensaje = "Debe ingresar un identificar de género" });
+                else return BadRequest("Debe ingresar un identificar de género" );
             }
             catch (Exception ex)
             {
@@ -54,11 +54,11 @@ namespace CineEF.Controllers
                 if (!string.IsNullOrEmpty(genero.Nombre))
                 {
                     await _service.RegistrarGenero(genero); //no le paso nada, pero lo mismo entra, aunque no genera ningún registro
-                    return Ok(new { mensaje = "Género creado con éxito!!" });
+                    return Ok( "Género creado con éxito!!" );
                 }
                 else
                 {
-                    return BadRequest(new { mensaje = "No se ha podido registrar el género" });
+                    return BadRequest("No se ha podido registrar el género" );
                 }
 
             }
@@ -79,16 +79,16 @@ namespace CineEF.Controllers
                     if (id != null)
                     {
                         await _service.ModificarGenero(id, genero);
-                        return Ok(new { mensaje = "Género actualizado con éxito!!" });
+                        return Ok("Género actualizado con éxito!!" );
                     }
                     else
                     {
-                        return NotFound(new { mensaje = "No se ha encontrado el género solicitado" });
+                        return NotFound( "No se ha encontrado el género solicitado" );
                     }
                 }
                 else
                 {
-                    return BadRequest(new { mensaje = "No se ha podido actualizar el género" });
+                    return BadRequest("No se ha podido actualizar el género" );
                 }
 
             }
@@ -107,11 +107,11 @@ namespace CineEF.Controllers
                 if (id != null)
                 {
                     await _service.EliminarGenero(id);
-                    return Ok(new { mensaje = "Género eliminado con éxito!!" });
+                    return Ok("Género eliminado con éxito!!" );
                 }
                 else
                 {
-                    return NotFound(new { mensaje = "No se ha encontrado el género solicitado" });
+                    return NotFound( "No se ha encontrado el género solicitado" );
                 }
             }
             catch (Exception ex)

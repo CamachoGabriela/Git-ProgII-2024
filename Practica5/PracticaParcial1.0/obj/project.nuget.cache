@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wX8WZHxmC1I=",
+  "dgSpecHash": "obe23ONlDlc=",
   "success": true,
-  "projectFilePath": "c:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\PracticaParcial1.0\\PracticaParcial1.0.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\Practica5\\PracticaParcial1.0\\PracticaParcial1.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

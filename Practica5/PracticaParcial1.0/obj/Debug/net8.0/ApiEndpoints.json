@@ -27,6 +27,27 @@
   },
   {
     "ContainingType": "PracticaParcial1._0.Controllers.DetallesTurnoController",
+    "Method": "Delete",
+    "RelativePath": "api/DetallesTurno/{idT}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idT",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "idS",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PracticaParcial1._0.Controllers.DetallesTurnoController",
     "Method": "GetById",
     "RelativePath": "api/DetallesTurno/{idT},{idS}",
     "HttpMethod": "GET",
@@ -67,27 +88,6 @@
       {
         "Name": "detalle",
         "Type": "Negocio.Data.Entities.TDetallesTurno",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "PracticaParcial1._0.Controllers.DetallesTurnoController",
-    "Method": "Delete",
-    "RelativePath": "api/DetallesTurno/{idT},{idS}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "idT",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "idS",
-        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CineEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1056a44fe5cb3ff3e78df46485ed28520d928303")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae68389f8435ab8c032a9bc47428e4cc8f51333")]
 [assembly: System.Reflection.AssemblyProductAttribute("CineEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CineEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -60,6 +60,7 @@ namespace PracticaParcial1._0.Controllers
             }
             catch (Exception ex)
             {
+                Console.WriteLine($"Internal Server Error: {ex.Message}");
                 return StatusCode(500, $"Ha ocurrido un error interno: {ex.Message}");
             }
         }

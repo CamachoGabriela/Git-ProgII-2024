@@ -84,8 +84,8 @@ namespace PracticaParcial1._0.Controllers
         }
 
         // DELETE api/<DetallesTurnoController>/5
-        [HttpDelete("{idT},{idS}")]
-        public async Task <IActionResult> Delete(int idT, int idS)
+        [HttpDelete("{idT}")]
+        public async Task <IActionResult> Delete(int idT, [FromQuery] int idS)
         {
             try
             {
