@@ -1,4 +1,5 @@
 ﻿using BackCine.Data;
+using BackCine.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,5 @@
 ﻿using BackCine.Data;
+using BackCine.Data.Entities;
 using BackCine.Data.Interfaces;
 using BackCine.Services.Interfaces;
 using System;

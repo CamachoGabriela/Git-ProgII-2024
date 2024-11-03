@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace BackCine.Data;
+namespace BackCine.Data.Entities;
 
 public partial class Funcione
 {

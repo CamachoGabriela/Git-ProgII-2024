@@ -6,7 +6,7 @@
    "IncludeConnectionString": false,
    "ModelNamespace": null,
    "OutputContextPath": null,
-   "OutputPath": "Data",
+   "OutputPath": "Data\/Entities",
    "PreserveCasingWithRegex": true,
    "ProjectRootNamespace": "BackCine",
    "Schemas": null,
@@ -43,7 +43,15 @@
          "ObjectType": 0
       },
       {
+         "Name": "[dbo].[GENEROS]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[PELICULAS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PELICULAS_GENEROS]",
          "ObjectType": 0
       },
       {

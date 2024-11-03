@@ -1,4 +1,5 @@
-﻿using BackCine.Data.Interfaces;
+﻿using BackCine.Data.Entities;
+using BackCine.Data.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 namespace BackCine.Data.Entities;
 
-public partial class TiposSala
+public partial class Genero
 {
-    public int IdTipoSala { get; set; }
+    public int IdGenero { get; set; }
 
-    public string TipoSala { get; set; }
+    public string Genero1 { get; set; }
 
-    public virtual ICollection<Sala> Salas { get; set; } = new List<Sala>();
+    public virtual ICollection<Pelicula> IdPeliculas { get; set; } = new List<Pelicula>();
 }

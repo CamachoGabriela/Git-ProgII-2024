@@ -1,4 +1,5 @@
-﻿using BackCine.Data.Interfaces;
+﻿using BackCine.Data.Entities;
+using BackCine.Data.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -15,13 +16,13 @@ namespace BackCine.Data.Repositories
         {
             _context = context;
         }
-        public async Task<bool> Create(Pelicula pelicula)
+        public async Task<bool> CreateFilm(Pelicula pelicula)
         {
             _context.Peliculas.Add(pelicula);
             return await _context.SaveChangesAsync() > 0;
         }
 
-        public async Task<bool> Delete(int id)
+        public async Task<bool> DeleteFilm(int id)
         {
             var peliEliminada = await _context.Peliculas.FindAsync(id);
             if (peliEliminada != null)
@@ -38,8 +39,14 @@ namespace BackCine.Data.Repositories
             return await _context.Peliculas.Where(x => x.EstaActivo == true).ToListAsync();
         }
 
-        public async Task<List<Pelicula?>> GetByGenre(string genero)
+        public async Task<List<Pelicula>> GetByGenre(string genero)
         {
+            var buscarGenero = await _context.Generos.FirstOrDefaultAsync(g => g.Genero1 == genero);
+            if(buscarGenero == null)
+            {
+                return new List<Pelicula>(); //Devuelve una lista de películas vacía
+            }
+            return await _context.Peliculas.Where(p => p.IdGeneros.Any(g => g.IdGenero == buscarGenero.IdGenero)).ToListAsync();
         }
 
         public async Task<Pelicula?> GetById(int id)
@@ -47,14 +54,22 @@ namespace BackCine.Data.Repositories
             return await _context.Peliculas.FindAsync(id);
         }
 
-        public Task<Pelicula?> GetByTitle(string titulo)
+        public async Task<Pelicula?> GetByTitle(string titulo)
         {
-            throw new NotImplementedException();
+            return await _context.Peliculas.FirstOrDefaultAsync(p => p.Titulo.Equals(titulo));
         }
 
-        public Task<bool> Update(int id, Pelicula pelicula)
+        public async Task<bool> UpdateFilm(int id, Pelicula pelicula)
         {
-            throw new NotImplementedException();
+            var peliExistente = await _context.Peliculas.FindAsync(id);
+            if(peliExistente == null) { return false; }
+
+            peliExistente.Titulo = pelicula.Titulo;
+            peliExistente.Duracion = pelicula.Duracion;
+
+            _context.Update(peliExistente);
+
+            return await _context.SaveChangesAsync() > 0;
         }
     }
 }

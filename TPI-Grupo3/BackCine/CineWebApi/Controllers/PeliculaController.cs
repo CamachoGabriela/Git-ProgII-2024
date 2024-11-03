@@ -1,5 +1,4 @@
-﻿using BackCine.Data;
-using BackCine.Data.Entities;
+﻿using BackCine.Data.Entities;
 using BackCine.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,20 +8,21 @@ namespace CineWebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ClienteController : ControllerBase
+    public class PeliculaController : ControllerBase
     {
-        private readonly IClienteService _service;
-        public ClienteController(IClienteService service)
+        private readonly IPeliculaService _service;
+
+        public PeliculaController(IPeliculaService service)
         {
-            _service = service;            
+            _service = service;
         }
-        // GET: api/<ClienteController>
+        // GET: api/<PeliculaController>
         [HttpGet]
         public async Task<IActionResult> Get()
         {
             try
             {
-                return Ok(await _service.GetClientes());
+                return Ok(await _service.GetFilms());
             }
             catch (Exception ex)
             {
@@ -30,13 +30,13 @@ namespace CineWebApi.Controllers
             }
         }
 
-        // GET api/<ClienteController>/5
+        // GET api/<PeliculaController>/5
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
             try
             {
-                return Ok(await _service.GetClienteById(id));
+                return Ok(await _service.GetFilmById(id));
             }
             catch (Exception ex)
             {
@@ -44,12 +44,12 @@ namespace CineWebApi.Controllers
             }
         }
 
-        [HttpGet("Filtrar/")]
-        public async Task<IActionResult> GetByName([FromQuery] string nombre, [FromQuery] string apellido)
+        [HttpGet("Titulo/{titulo}")]
+        public async Task<IActionResult> GetByTitle(string titulo)
         {
             try
             {
-                return Ok(await _service.FiltrarClientePorNombre(nombre, apellido));
+                return Ok(await _service.GetFilmByTitle(titulo));
             }
             catch (Exception ex)
             {
@@ -57,19 +57,31 @@ namespace CineWebApi.Controllers
             }
         }
 
+        [HttpGet("Genero/{genero}")]
+        public async Task<IActionResult> GetByFecha(string genero)
+        {
+            try
+            {
+                return Ok(await _service.GetFilmByGenre(genero));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Ha ocurrido un error interno: {ex.Message}");
+            }
+        }
 
-        // POST api/<ClienteController>
+        // POST api/<PeliculaController>
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] Cliente cliente)
+        public async Task<IActionResult> Post([FromBody] Pelicula pelicula)
         {
             try
             {
-                if (cliente == null)
-                    return BadRequest("Ingrese un cliente válido");
+                if (pelicula == null)
+                    return BadRequest("Ingrese una película válida");
                 else
                 {
-                    await _service.RegistrarCliente(cliente);
-                    return Ok("Cliente registrado exitosamente");
+                    await _service.CrearPelicula(pelicula);
+                    return Ok("Película registradoa exitosamente");
                 }
 
             }
@@ -79,20 +91,20 @@ namespace CineWebApi.Controllers
             }
         }
 
-        // PUT api/<ClienteController>/5
+        // PUT api/<PeliculaController>/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromBody] Cliente cliente)
+        public async Task<IActionResult> Put(int id, [FromBody] Pelicula pelicula)
         {
             try
             {
-                if (cliente == null)
-                    return BadRequest("Debe ingresar los datos del cliente");
+                if (pelicula == null)
+                    return BadRequest("Debe ingresar los datos de la película");
                 if (id == 0 || id == null)
-                    return NotFound("Cliente no encontrado!");
+                    return NotFound("Película no encontrada!");
                 else
                 {
-                    await _service.EditarCliente(id, cliente);
-                    return Ok("Cliente actualizado exitosamente");
+                    await _service.EditarPelicula(id, pelicula);
+                    return Ok("Película actualizada exitosamente");
                 }
             }
             catch (Exception ex)
@@ -101,7 +113,7 @@ namespace CineWebApi.Controllers
             }
         }
 
-        // DELETE api/<ClienteController>/5
+        // DELETE api/<PeliculaController>/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
@@ -111,8 +123,8 @@ namespace CineWebApi.Controllers
                     return BadRequest("Ingrese valores válidos");
                 else
                 {
-                    await _service.Eliminar(id);
-                    return Ok("Cliente dado de baja!");
+                    await _service.EliminarPelicula(id);
+                    return Ok("Película dada de baja!");
                 }
             }
             catch (Exception ex)

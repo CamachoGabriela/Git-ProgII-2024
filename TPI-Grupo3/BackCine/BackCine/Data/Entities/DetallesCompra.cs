@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace BackCine.Data;
+namespace BackCine.Data.Entities;
 
 public partial class DetallesCompra
 {

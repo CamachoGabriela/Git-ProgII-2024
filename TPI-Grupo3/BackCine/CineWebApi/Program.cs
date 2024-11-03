@@ -1,4 +1,5 @@
 using BackCine.Data;
+using BackCine.Data.Entities;
 using BackCine.Data.Interfaces;
 using BackCine.Data.Repositories;
 using BackCine.Services.Implementations;
@@ -27,6 +28,9 @@ builder.Services.AddScoped<IClienteService, ClienteService>();
 
 builder.Services.AddScoped<IFuncionRepository, FuncionRepository>();
 builder.Services.AddScoped<IFuncionService, FuncionService>();
+
+builder.Services.AddScoped<IPeliculaRepository, PeliculaRepository>();
+builder.Services.AddScoped<IPeliculaService, PeliculaService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

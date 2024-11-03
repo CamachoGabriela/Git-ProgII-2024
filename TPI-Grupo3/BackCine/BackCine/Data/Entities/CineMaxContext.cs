@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace BackCine.Data;
+namespace BackCine.Data.Entities;
 
 public partial class CineMaxContext : DbContext
 {
@@ -26,6 +26,8 @@ public partial class CineMaxContext : DbContext
     public virtual DbSet<DetallesCompra> DetallesCompras { get; set; }
 
     public virtual DbSet<Funcione> Funciones { get; set; }
+
+    public virtual DbSet<Genero> Generos { get; set; }
 
     public virtual DbSet<Pelicula> Peliculas { get; set; }
 
@@ -209,6 +211,39 @@ public partial class CineMaxContext : DbContext
                 .HasForeignKey(d => d.IdSala)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_FUNCIONES_SALAS");
+        });
+
+        modelBuilder.Entity<Genero>(entity =>
+        {
+            entity.HasKey(e => e.IdGenero);
+
+            entity.ToTable("GENEROS");
+
+            entity.Property(e => e.IdGenero).HasColumnName("ID_GENERO");
+            entity.Property(e => e.Genero1)
+                .IsRequired()
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("GENERO");
+
+            entity.HasMany(d => d.IdPeliculas).WithMany(p => p.IdGeneros)
+                .UsingEntity<Dictionary<string, object>>(
+                    "PeliculasGenero",
+                    r => r.HasOne<Pelicula>().WithMany()
+                        .HasForeignKey("IdPelicula")
+                        .OnDelete(DeleteBehavior.ClientSetNull)
+                        .HasConstraintName("FK_PELICULAS_GENEROS_PELICULAS"),
+                    l => l.HasOne<Genero>().WithMany()
+                        .HasForeignKey("IdGenero")
+                        .OnDelete(DeleteBehavior.ClientSetNull)
+                        .HasConstraintName("FK_PELICULAS_GENEROS_GENEROS"),
+                    j =>
+                    {
+                        j.HasKey("IdGenero", "IdPelicula");
+                        j.ToTable("PELICULAS_GENEROS");
+                        j.IndexerProperty<int>("IdGenero").HasColumnName("ID_GENERO");
+                        j.IndexerProperty<int>("IdPelicula").HasColumnName("ID_PELICULA");
+                    });
         });
 
         modelBuilder.Entity<Pelicula>(entity =>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BackCine.Data.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,9 +12,9 @@ namespace BackCine.Data.Interfaces
         Task<List<Pelicula>> GetAll();
         Task<Pelicula?> GetById(int id);
         Task<Pelicula?> GetByTitle(string titulo);
-        Task<List<Pelicula?>> GetByGenre(string genero);
-        Task<bool> Create(Pelicula pelicula);
-        Task<bool> Update(int id, Pelicula pelicula);
-        Task<bool> Delete(int id);
+        Task<List<Pelicula>> GetByGenre(string genero);
+        Task<bool> CreateFilm (Pelicula pelicula);
+        Task<bool> UpdateFilm(int id, Pelicula pelicula);
+        Task<bool> DeleteFilm(int id);
     }
 }

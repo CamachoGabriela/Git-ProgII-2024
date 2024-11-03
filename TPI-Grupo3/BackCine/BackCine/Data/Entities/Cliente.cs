@@ -2,9 +2,8 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
-using System.Text.Json.Serialization;
 
-namespace BackCine.Data;
+namespace BackCine.Data.Entities;
 
 public partial class Cliente
 {
@@ -28,8 +27,7 @@ public partial class Cliente
 
     public bool? Estado { get; set; }
 
-    [JsonIgnore]
     public virtual ICollection<Compra> Compras { get; set; } = new List<Compra>();
-    [JsonIgnore]
+
     public virtual ICollection<Reserva> Reservas { get; set; } = new List<Reserva>();
 }
