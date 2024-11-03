@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\repositories\\butacarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\repositories\\butacarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\services\\interfaces\\ibutacaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\services\\interfaces\\ibutacaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{546BC9F9-33A4-41FF-94B7-3958CFAC25D8}|CineWebApi\\CineWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\cinewebapi\\controllers\\butacacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{546BC9F9-33A4-41FF-94B7-3958CFAC25D8}|CineWebApi\\CineWebApi.csproj|solutionrelative:cinewebapi\\controllers\\butacacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{546BC9F9-33A4-41FF-94B7-3958CFAC25D8}|CineWebApi\\CineWebApi.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\cinewebapi\\controllers\\funcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{546BC9F9-33A4-41FF-94B7-3958CFAC25D8}|CineWebApi\\CineWebApi.csproj|solutionrelative:cinewebapi\\controllers\\funcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\entities\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\entities\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\entities\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\entities\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\entities\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\entities\\funcione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\entities\\funcione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\entities\\detallescompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\entities\\detallescompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|c:\\users\\gabri\\desktop\\utn\\2-cuatrimestre\\programacionii\\git-progii-2024\\tpi-grupo3\\backcine\\backcine\\data\\entities\\detallebutaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9727F002-3CC3-465E-9544-306944ADB4E6}|BackCine\\BackCine.csproj|solutionrelative:backcine\\data\\entities\\detallebutaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,40 +67,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ButacaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Repositories\\ButacaRepository.cs",
-              "RelativeDocumentMoniker": "BackCine\\Data\\Repositories\\ButacaRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Repositories\\ButacaRepository.cs",
-              "RelativeToolTip": "BackCine\\Data\\Repositories\\ButacaRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "BackCine\\Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T18:12:21.528Z",
+              "WhenOpened": "2024-11-03T22:56:37.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IButacaService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Services\\Interfaces\\IButacaService.cs",
-              "RelativeDocumentMoniker": "BackCine\\Services\\Interfaces\\IButacaService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Services\\Interfaces\\IButacaService.cs",
-              "RelativeToolTip": "BackCine\\Services\\Interfaces\\IButacaService.cs",
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "BackCine\\Data\\Interfaces\\IClienteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T18:00:03.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FuncionController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\CineWebApi\\Controllers\\FuncionController.cs",
-              "RelativeDocumentMoniker": "CineWebApi\\Controllers\\FuncionController.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\CineWebApi\\Controllers\\FuncionController.cs",
-              "RelativeToolTip": "CineWebApi\\Controllers\\FuncionController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAA7wFMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T17:59:11.345Z",
+              "WhenOpened": "2024-11-03T22:56:32.707Z",
               "EditorCaption": ""
             },
             {
@@ -87,10 +98,95 @@
               "RelativeDocumentMoniker": "CineWebApi\\Controllers\\ButacaController.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\CineWebApi\\Controllers\\ButacaController.cs",
               "RelativeToolTip": "CineWebApi\\Controllers\\ButacaController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwv0EAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T17:59:03.67Z",
+              "WhenOpened": "2024-11-03T22:56:21.725Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Sala.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Entities\\Sala.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Sala.cs",
+              "RelativeToolTip": "BackCine\\Data\\Entities\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:54:14.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Reserva.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Reserva.cs",
+              "RelativeToolTip": "BackCine\\Data\\Entities\\Reserva.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:54:06.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Pelicula.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Entities\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Pelicula.cs",
+              "RelativeToolTip": "BackCine\\Data\\Entities\\Pelicula.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:53:59.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Genero.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Entities\\Genero.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Genero.cs",
+              "RelativeToolTip": "BackCine\\Data\\Entities\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:53:57.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Funcione.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Funcione.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Entities\\Funcione.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\Funcione.cs",
+              "RelativeToolTip": "BackCine\\Data\\Entities\\Funcione.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:53:48.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetallesCompra.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\DetallesCompra.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Entities\\DetallesCompra.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\DetallesCompra.cs",
+              "RelativeToolTip": "BackCine\\Data\\Entities\\DetallesCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:53:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleButaca.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\DetalleButaca.cs",
+              "RelativeDocumentMoniker": "BackCine\\Data\\Entities\\DetalleButaca.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UTN\\2-Cuatrimestre\\ProgramacionII\\Git-ProgII-2024\\TPI-Grupo3\\BackCine\\BackCine\\Data\\Entities\\DetalleButaca.cs",
+              "RelativeToolTip": "BackCine\\Data\\Entities\\DetalleButaca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:53:37.105Z"
             }
           ]
         }

@@ -25,7 +25,6 @@ public partial class Funcione
     public virtual ICollection<ButacasReservada> ButacasReservada { get; set; } = new List<ButacasReservada>();
 
     public virtual ICollection<DetalleButaca> DetalleButacas { get; set; } = new List<DetalleButaca>();
-
     [JsonIgnore]
     public virtual Pelicula IdPeliculaNavigation { get; set; }
     [JsonIgnore]

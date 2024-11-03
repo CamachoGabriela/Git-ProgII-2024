@@ -69,6 +69,34 @@
       {
          "Name": "[dbo].[TIPOS_SALA]",
          "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Vis_DetallesCompras]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[pa_analisis_ocupacion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[PA_CONSULTA_CLIENTE]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pa_verificar_disponibilidad]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[f_fecha]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[f_hora]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[fn_butacas_disponibles]",
+         "ObjectType": 2
       }
    ],
    "UiHint": null,

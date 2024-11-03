@@ -21,7 +21,7 @@ namespace BackCine.Data.Repositories
             return await _context.Butacas.Where(b => b.IdSala == idSala).ToListAsync();
         }
 
-        public async Task<List<Butaca>> GetAvailableByFuncion(int idFuncion) //EXISTS 
+        public async Task<List<Butaca>> GetAvailableByFuncion(int idFuncion) //EXISTS  Devuelve las butacas disponibles en una función
         {
             return await _context.Butacas.Where(b => !_context.ButacasReservadas.Any(br => br.IdFuncion == idFuncion && br.IdButaca == b.IdButaca) &&
                                                      !_context.DetalleButacas.Any(d => d.IdFuncion == idFuncion && d.IdButaca == b.IdButaca)).ToListAsync(); 

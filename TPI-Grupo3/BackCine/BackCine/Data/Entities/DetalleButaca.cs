@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace BackCine.Data.Entities;
 
@@ -16,6 +17,6 @@ public partial class DetalleButaca
     public virtual Butaca Butaca { get; set; }
 
     public virtual ICollection<DetallesCompra> DetallesCompras { get; set; } = new List<DetallesCompra>();
-
+    [JsonIgnore]
     public virtual Funcione IdFuncionNavigation { get; set; }
 }

@@ -39,6 +39,8 @@ public partial class CineMaxContext : DbContext
 
     public virtual DbSet<TiposSala> TiposSalas { get; set; }
 
+    public virtual DbSet<VisDetallesCompra> VisDetallesCompras { get; set; }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Butaca>(entity =>
@@ -373,6 +375,25 @@ public partial class CineMaxContext : DbContext
                 .HasColumnName("TIPO_SALA");
         });
 
+        modelBuilder.Entity<VisDetallesCompra>(entity =>
+        {
+            entity
+                .HasNoKey()
+                .ToView("Vis_DetallesCompras");
+
+            entity.Property(e => e.FechaCompra).HasColumnType("datetime");
+            entity.Property(e => e.NombreCliente)
+                .IsRequired()
+                .HasMaxLength(101)
+                .IsUnicode(false);
+            entity.Property(e => e.PrecioTotal).HasColumnType("money");
+            entity.Property(e => e.Sala)
+                .IsRequired()
+                .HasMaxLength(50)
+                .IsUnicode(false);
+        });
+
+        OnModelCreatingGeneratedFunctions(modelBuilder);
         OnModelCreatingPartial(modelBuilder);
     }
 
