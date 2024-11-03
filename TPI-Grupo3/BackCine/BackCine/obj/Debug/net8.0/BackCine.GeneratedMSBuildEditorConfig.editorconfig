@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BackCine
-build_property.ProjectDir = C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\TPI-Grupo3\BackCine\BackCine\
+build_property.ProjectDir = C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\TPI-Grupo3\BackCine\BackCine\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

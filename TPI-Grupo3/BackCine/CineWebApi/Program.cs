@@ -1,7 +1,8 @@
 using BackCine.Data;
 using BackCine.Data.Interfaces;
 using BackCine.Data.Repositories;
-using BackCine.Services;
+using BackCine.Services.Implementations;
+using BackCine.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +24,9 @@ builder.Services.AddDbContext<CineMaxContext>(
 
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IClienteService, ClienteService>();
+
+builder.Services.AddScoped<IFuncionRepository, FuncionRepository>();
+builder.Services.AddScoped<IFuncionService, FuncionService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

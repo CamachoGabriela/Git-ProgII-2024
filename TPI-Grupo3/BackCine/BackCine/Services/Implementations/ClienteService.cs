@@ -1,12 +1,13 @@
 ﻿using BackCine.Data;
 using BackCine.Data.Interfaces;
+using BackCine.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BackCine.Services
+namespace BackCine.Services.Implementations
 {
     public class ClienteService : IClienteService
     {
@@ -16,7 +17,7 @@ namespace BackCine.Services
         {
             _repository = repository;
         }
-        public async Task<bool> Editar(int id, Cliente cliente)
+        public async Task<bool> EditarCliente(int id, Cliente cliente)
         {
             return await _repository.Update(id, cliente);
         }

@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace BackCine.Data;
 
@@ -32,6 +33,6 @@ public partial class Pelicula
     public int IdPais { get; set; }
 
     public virtual ICollection<Funcione> Funciones { get; set; } = new List<Funcione>();
-
+    [JsonIgnore]
     public virtual TiposPelicula IdTipoPeliculaNavigation { get; set; }
 }

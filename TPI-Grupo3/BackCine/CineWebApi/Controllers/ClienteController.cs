@@ -1,5 +1,5 @@
 ﻿using BackCine.Data;
-using BackCine.Services;
+using BackCine.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -68,7 +68,7 @@ namespace CineWebApi.Controllers
                 else
                 {
                     await _service.RegistrarCliente(cliente);
-                    return Ok("Cliente registrado exitosamente");
+                    return Ok("Funcione registrado exitosamente");
                 }
 
             }
@@ -87,11 +87,11 @@ namespace CineWebApi.Controllers
                 if (cliente == null)
                     return BadRequest("Debe ingresar los datos del cliente");
                 if (id == 0 || id == null)
-                    return NotFound("Cliente no encontrado!");
+                    return NotFound("Funcione no encontrado!");
                 else
                 {
-                    await _service.Editar(id, cliente);
-                    return Ok("Cliente actualizado exitosamente");
+                    await _service.EditarCliente(id, cliente);
+                    return Ok("Funcione actualizado exitosamente");
                 }
             }
             catch (Exception ex)
@@ -111,7 +111,7 @@ namespace CineWebApi.Controllers
                 else
                 {
                     await _service.Eliminar(id);
-                    return Ok("Cliente dado de baja!");
+                    return Ok("Funcione dado de baja!");
                 }
             }
             catch (Exception ex)
