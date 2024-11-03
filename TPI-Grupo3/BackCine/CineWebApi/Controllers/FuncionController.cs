@@ -81,7 +81,7 @@ namespace CineWebApi.Controllers
                 else
                 {
                     await _service.RegistrarFuncion(funcion);
-                    return Ok("Función registradoa exitosamente");
+                    return Ok("Función registrada exitosamente");
                 }
 
             }

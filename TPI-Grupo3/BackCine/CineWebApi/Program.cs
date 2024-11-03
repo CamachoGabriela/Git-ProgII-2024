@@ -32,6 +32,9 @@ builder.Services.AddScoped<IFuncionService, FuncionService>();
 builder.Services.AddScoped<IPeliculaRepository, PeliculaRepository>();
 builder.Services.AddScoped<IPeliculaService, PeliculaService>();
 
+builder.Services.AddScoped<IButacaRepository, ButacaRepository>();
+builder.Services.AddScoped<IButacaService, ButacaService>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
