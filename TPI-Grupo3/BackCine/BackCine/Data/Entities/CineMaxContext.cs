@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackCine.Data.Entities;
@@ -12,7 +13,6 @@ public partial class CineMaxContext : DbContext
         : base(options)
     {
     }
-
     public virtual DbSet<Butaca> Butacas { get; set; }
 
     public virtual DbSet<ButacasReservada> ButacasReservadas { get; set; }
@@ -41,8 +41,37 @@ public partial class CineMaxContext : DbContext
 
     public virtual DbSet<VisDetallesCompra> VisDetallesCompras { get; set; }
 
+    
+    public async Task<int> VerificarDisponibilidadAsync(string pelicula, DateTime fecha)
+    {
+        var butacasDisponiblesParam = new SqlParameter
+        {
+            ParameterName = "@butacas_disponibles",
+            SqlDbType = System.Data.SqlDbType.Int,
+            Direction = System.Data.ParameterDirection.Output
+        };
+
+        // Parámetros de entrada
+        var parameters = new[]
+        {
+        new SqlParameter("@pelicula", pelicula),
+        new SqlParameter("@fecha", fecha),
+        butacasDisponiblesParam  // Parámetro de salida
+    };
+
+        // Ejecutar el procedimiento almacenado
+        await Database.ExecuteSqlRawAsync("EXEC pa_verificar_disponibilidad @pelicula, @fecha, @butacas_disponibles OUTPUT", parameters);
+
+        // Obtener el valor del parámetro de salida
+        int butacasDisponibles = (int)butacasDisponiblesParam.Value;
+
+        return butacasDisponibles;
+    }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<AnalisisOcupacionResult>().HasNoKey();
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Butaca>(entity =>
         {
             entity.HasKey(e => new { e.IdButaca, e.IdSala }).HasName("pk_butacas_compuesta");

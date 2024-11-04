@@ -38,6 +38,14 @@ builder.Services.AddScoped<IButacaService, ButacaService>();
 builder.Services.AddScoped<IDetalleButacaRepository, DetalleButacaRepository>();
 builder.Services.AddScoped<IDetalleButacaService, DetalleButacaService>();
 
+builder.Services.AddScoped<ICompraRepository, CompraRepository>();
+builder.Services.AddScoped<ICompraService, CompraService>();
+
+builder.Services.AddScoped<IDetallesCompraRepository, DetallesCompraRepository>();
+builder.Services.AddScoped<IDetallesCompraService, DetallesCompraService>();
+
+builder.Services.AddScoped<IAnalisisOcupacionService, AnalisisOcupacionService>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

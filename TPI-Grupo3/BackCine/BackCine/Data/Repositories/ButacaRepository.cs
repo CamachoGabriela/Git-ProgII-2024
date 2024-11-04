@@ -1,5 +1,6 @@
 ﻿using BackCine.Data.Entities;
 using BackCine.Data.Interfaces;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -16,6 +17,7 @@ namespace BackCine.Data.Repositories
         {
             _context = context;
         }
+
         public async Task<List<Butaca>> GetAllbySala(int idSala)
         {
             return await _context.Butacas.Where(b => b.IdSala == idSala).ToListAsync();
@@ -42,6 +44,11 @@ namespace BackCine.Data.Repositories
             bool isPurchased = await _context.DetalleButacas.AnyAsync(db => db.IdSala == idSala && db.IdFuncion == idFuncion && db.IdButaca == idButaca);
 
             return !isReserved && !isPurchased; 
+        }
+
+        public async Task<int> VerificarDisponibilidad(string tituloPelicula, DateTime fecha)
+        {
+            return await _context.VerificarDisponibilidadAsync(tituloPelicula, fecha);
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using BackCine.Services.Interfaces;
+﻿using BackCine.Services.Implementations;
+using BackCine.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -56,7 +57,7 @@ namespace CineWebApi.Controllers
             }
         }
 
-        [HttpGet("Disponible/")]
+        [HttpGet("EstaDisponible/")]
         public async Task<IActionResult> GetDisponible([FromQuery] int idSala, [FromQuery] int idFuncion, [FromQuery] int idButaca)
         {
             try
@@ -65,6 +66,29 @@ namespace CineWebApi.Controllers
                 if (response)
                     return Ok("Butaca Disponible");
                 return Ok("Butaca Ocupada");
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Ha ocurrido un error interno: {ex.Message}");
+            }
+        }
+
+        [HttpGet("DisponibilidadPeliFecha/")]
+        public async Task<IActionResult> VerificarDisponibilidad([FromQuery] string titulo, [FromQuery] DateTime fecha)
+        {
+            try
+            {
+                var disponibilidad = await _service.VerificarDisponibilidad(titulo, fecha);
+
+                if (disponibilidad > 0)
+                {
+                    return Ok($"Hay {disponibilidad} butacas disponibles para {titulo} el {fecha.ToShortDateString()}.");
+                }
+                else
+                {
+                    return Ok("No hay butacas disponibles para la función seleccionada.");
+                }
 
             }
             catch (Exception ex)

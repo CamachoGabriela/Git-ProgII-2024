@@ -1,5 +1,6 @@
 ﻿using BackCine.Data.Entities;
 using BackCine.Data.Interfaces;
+using BackCine.Data.Repositories;
 using BackCine.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -35,6 +36,11 @@ namespace BackCine.Services.Implementations
         public async Task<bool> VerDisponibilidad(int idSala, int idFuncion, int idButaca)
         {
             return await _repository.IsAvailable(idSala, idFuncion, idButaca);
+        }
+
+        public async Task<int> VerificarDisponibilidad(string tituloPelicula, DateTime fecha)
+        {
+            return await _repository.VerificarDisponibilidad(tituloPelicula, fecha);
         }
     }
 }

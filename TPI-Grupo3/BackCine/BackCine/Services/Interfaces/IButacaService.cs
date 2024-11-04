@@ -13,5 +13,6 @@ namespace BackCine.Services.Interfaces
         Task<Butaca?> ButacasById(int idButaca, int idSala, int idFuncion);
         Task<List<Butaca>> ButacasDisponiblesPorFuncion(int idFuncion);
         Task<bool> VerDisponibilidad(int idSala, int idFuncion, int idButaca);
+        Task<int> VerificarDisponibilidad(string tituloPelicula, DateTime fecha);
     }
 }

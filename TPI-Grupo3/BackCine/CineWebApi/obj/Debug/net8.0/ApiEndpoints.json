@@ -1,5 +1,26 @@
 [
   {
+    "ContainingType": "CineWebApi.Controllers.AnalisisOcupacionController",
+    "Method": "GetAnalisisOcupacion",
+    "RelativePath": "api/AnalisisOcupacion/ocupacion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaInicio",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaFin",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CineWebApi.Controllers.ButacaController",
     "Method": "GetButacas",
     "RelativePath": "api/Butaca",
@@ -27,8 +48,29 @@
   },
   {
     "ContainingType": "CineWebApi.Controllers.ButacaController",
+    "Method": "VerificarDisponibilidad",
+    "RelativePath": "api/Butaca/DisponibilidadPeliFecha",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecha",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.ButacaController",
     "Method": "GetDisponible",
-    "RelativePath": "api/Butaca/Disponible",
+    "RelativePath": "api/Butaca/EstaDisponible",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -184,6 +226,117 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CineWebApi.Controllers.CompraController",
+    "Method": "Get",
+    "RelativePath": "api/Compra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.CompraController",
+    "Method": "Post",
+    "RelativePath": "api/Compra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "compra",
+        "Type": "BackCine.Data.Entities.Compra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.CompraController",
+    "Method": "GetById",
+    "RelativePath": "api/Compra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.CompraController",
+    "Method": "GetByClient",
+    "RelativePath": "api/Compra/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombreC",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellidoC",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.CompraController",
+    "Method": "GetByDate",
+    "RelativePath": "api/Compra/Fecha",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecha",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.CompraController",
+    "Method": "GetByFormaPago",
+    "RelativePath": "api/Compra/FormaPago",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.CompraController",
+    "Method": "GetByTipoCompra",
+    "RelativePath": "api/Compra/TipoCompra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CineWebApi.Controllers.DetalleButacaController",
     "Method": "Post",
     "RelativePath": "api/DetalleButaca",
@@ -248,6 +401,96 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.DetallesCompraController",
+    "Method": "Get",
+    "RelativePath": "api/DetallesCompra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.DetallesCompraController",
+    "Method": "Post",
+    "RelativePath": "api/DetallesCompra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detallesCompra",
+        "Type": "BackCine.Data.Entities.DetallesCompra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.DetallesCompraController",
+    "Method": "GetById",
+    "RelativePath": "api/DetallesCompra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.DetallesCompraController",
+    "Method": "GetByIdBuy",
+    "RelativePath": "api/DetallesCompra/Compra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.DetallesCompraController",
+    "Method": "GetByFunction",
+    "RelativePath": "api/DetallesCompra/Funcion/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineWebApi.Controllers.DetallesCompraController",
+    "Method": "GetByMaxPrice",
+    "RelativePath": "api/DetallesCompra/PrecioMaximo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cant",
+        "Type": "System.Decimal",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
