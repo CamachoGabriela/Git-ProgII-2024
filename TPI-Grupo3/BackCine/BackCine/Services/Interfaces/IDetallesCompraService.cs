@@ -16,9 +16,9 @@ namespace BackCine.Services.Interfaces
         Task<List<DetallesCompra>> GetByFunction(int idFuncion);
         Task<bool> Create(DetallesCompra detallesCompra);
         /*
-        Task<bool> Update(int id, DetallesCompra detallesCompra);
-        Task<bool> Delete(int id);
-        */
+Task<bool> Update(int id, DetallesCompra detallesCompra);
+Task<bool> Delete(int id);
+*/
 
     }
 }

@@ -21,7 +21,7 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddDbContext<CineMaxContext>(
-        options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+        options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")).EnableSensitiveDataLogging());
 
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IClienteService, ClienteService>();
@@ -44,7 +44,12 @@ builder.Services.AddScoped<ICompraService, CompraService>();
 builder.Services.AddScoped<IDetallesCompraRepository, DetallesCompraRepository>();
 builder.Services.AddScoped<IDetallesCompraService, DetallesCompraService>();
 
+builder.Services.AddScoped<IReservaRepository, ReservaRepository>();
+builder.Services.AddScoped<IReservaService, ReservaService>();
+
 builder.Services.AddScoped<IAnalisisOcupacionService, AnalisisOcupacionService>();
+builder.Services.AddScoped<IVistaDetallesCompraRepository, VistaDetallesCompraRepository>();
+builder.Services.AddScoped<IVistaDetallesCompraService, VistaDetallesCompraService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
