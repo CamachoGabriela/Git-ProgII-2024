@@ -289,3 +289,5 @@ C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\TPI-Gru
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\TPI-Grupo3\BackCine\CineWebApi\obj\Debug\net8.0\CineWebApi.genruntimeconfig.cache
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\TPI-Grupo3\BackCine\CineWebApi\obj\Debug\net8.0\ref\CineWebApi.dll
 C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\TPI-Grupo3\BackCine\CineWebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\TPI-Grupo3\BackCine\CineWebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\gabri\Desktop\UTN\2-Cuatrimestre\ProgramacionII\Git-ProgII-2024\TPI-Grupo3\BackCine\CineWebApi\bin\Debug\net8.0\BouncyCastle.Crypto.dll

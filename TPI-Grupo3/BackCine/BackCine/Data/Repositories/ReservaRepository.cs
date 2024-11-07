@@ -72,7 +72,7 @@ namespace BackCine.Data.Repositories
                 var result = await _context.SaveChangesAsync() > 0;
 
                 // Log the result of the save operation
-                Console.WriteLine($"Reserva save result: {result}");
+                Console.WriteLine($"Reserva, resultado guardado: {result}");
 
 
                 if (result)
@@ -89,7 +89,7 @@ namespace BackCine.Data.Repositories
                         };
                         _context.ButacasReservadas.Add(butacaReservada);
                     }
-                    Console.WriteLine($"Associating Butacas Reservadas for Reserva: {reserva.IdReserva}");
+                    Console.WriteLine($"Asociando Butacas Reservadas a Reserva: {reserva.IdReserva}");
                     bool butacasGuardadas = await _context.SaveChangesAsync() > 0;
                     if (butacasGuardadas)
                     {
@@ -108,7 +108,7 @@ namespace BackCine.Data.Repositories
 
         public async Task<List<Reserva>> GetAll()
         {
-            return await _context.Reservas.ToListAsync();
+            return await _context.Reservas.Where(x=>x.IdEstado==3).ToListAsync();
         }
 
         public async Task<List<Reserva>> GetByCliente(int id)
@@ -211,7 +211,7 @@ namespace BackCine.Data.Repositories
 //        "idCliente": 1,
 //    "idFuncion": 15,
 //    "fechaReserva": "2024-11-04T23:25:09.805Z",
-//    "cantidadEntradas": 1,
+//    "cantidadEntradas": 1,                                QUE LA CANTIDAD DE BUTACAS SEA IGUAL A LA CANTIDAD BUTACASIDS
 //    "idEstado": 1,
 //    "idCompra": 1
 //    },

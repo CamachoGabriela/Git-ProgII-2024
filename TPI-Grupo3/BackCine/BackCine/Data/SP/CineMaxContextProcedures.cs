@@ -109,7 +109,7 @@ namespace BackCine.Data.Entities
             return _;
         }
 
-        public virtual async Task<int> pa_verificar_disponibilidadAsync(string pelicula, DateTime? fecha, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default)
+        public virtual async Task<int> pa_verificar_disponibilidad(string pelicula, DateTime? fecha, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default)
         {
             var parameterreturnValue = new SqlParameter
             {

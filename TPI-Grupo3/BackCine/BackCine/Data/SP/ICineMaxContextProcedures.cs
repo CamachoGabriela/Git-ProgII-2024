@@ -15,6 +15,6 @@ namespace BackCine.Data.Entities
     {
         Task<List<pa_analisis_ocupacionResult>> pa_analisis_ocupacionAsync(DateTime? fecha1, DateTime? fecha2, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
         Task<List<PA_CONSULTA_CLIENTEResult>> PA_CONSULTA_CLIENTEAsync(string nombre, string apellido, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
-        Task<int> pa_verificar_disponibilidadAsync(string pelicula, DateTime? fecha, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
+        Task<int> pa_verificar_disponibilidad(string pelicula, DateTime? fecha, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default);
     }
 }

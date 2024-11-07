@@ -48,7 +48,7 @@ namespace BackCine.Data.Repositories
 
         public async Task<int> VerificarDisponibilidad(string tituloPelicula, DateTime fecha)
         {
-            return await _context.VerificarDisponibilidadAsync(tituloPelicula, fecha);
+            return await _context.VerificarDisponibilidad(tituloPelicula, fecha);
         }
     }
 }

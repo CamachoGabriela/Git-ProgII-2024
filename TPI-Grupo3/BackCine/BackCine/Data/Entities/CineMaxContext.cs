@@ -13,6 +13,7 @@ public partial class CineMaxContext : DbContext
         : base(options)
     {
     }
+
     public virtual DbSet<Butaca> Butacas { get; set; }
 
     public virtual DbSet<ButacasReservada> ButacasReservadas { get; set; }
@@ -39,10 +40,11 @@ public partial class CineMaxContext : DbContext
 
     public virtual DbSet<TiposSala> TiposSalas { get; set; }
 
+    public virtual DbSet<Usuario> Usuarios { get; set; }
+
     public virtual DbSet<VisDetallesCompra> VisDetallesCompras { get; set; }
 
-    
-    public async Task<int> VerificarDisponibilidadAsync(string pelicula, DateTime fecha)
+    public async Task<int> VerificarDisponibilidad(string pelicula, DateTime fecha)
     {
         var butacasDisponiblesParam = new SqlParameter
         {
@@ -402,6 +404,30 @@ public partial class CineMaxContext : DbContext
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("TIPO_SALA");
+        });
+
+        modelBuilder.Entity<Usuario>(entity =>
+        {
+            entity.HasKey(e => e.IdUsuario).HasName("PK__Usuarios__5B65BF97F41B8926");
+
+            entity.HasIndex(e => e.Email, "UQ__Usuarios__A9D10534337A9955").IsUnique();
+
+            entity.Property(e => e.Contrasenha)
+                .HasMaxLength(50)
+                .IsUnicode(false);
+            entity.Property(e => e.Email)
+                .IsRequired()
+                .HasMaxLength(100);
+            entity.Property(e => e.Estado).HasDefaultValue(true);
+            entity.Property(e => e.IdCliente).HasColumnName("Id_cliente");
+            entity.Property(e => e.Rol)
+                .HasMaxLength(20)
+                .HasDefaultValue("User");
+
+            entity.HasOne(d => d.IdClienteNavigation).WithMany(p => p.Usuarios)
+                .HasForeignKey(d => d.IdCliente)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__Usuarios__Id_cli__3F115E1A");
         });
 
         modelBuilder.Entity<VisDetallesCompra>(entity =>
